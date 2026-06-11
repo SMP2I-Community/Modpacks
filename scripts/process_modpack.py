@@ -179,6 +179,41 @@ def process(input_path, output_root):
     print(f"Done: {len(files_index)} files for {modpack_id}")
 
 
+def remove_modpack(modpack_filename, output_root):
+    output_root = Path(output_root)
+    modpack_id = slugify(Path(modpack_filename).stem)
+
+    modpack_dir = output_root / modpack_id
+    if modpack_dir.exists():
+        shutil.rmtree(modpack_dir)
+        print(f"Removed directory: {modpack_dir}")
+
+    index_path = output_root / "index.json"
+    if index_path.exists():
+        with open(index_path) as f:
+            index = json.load(f)
+
+        before = len(index["modpacks"])
+        index["modpacks"] = [m for m in index["modpacks"] if m["id"] != modpack_id]
+        after = len(index["modpacks"])
+
+        with open(index_path, "w") as f:
+            json.dump(index, f, indent=4)
+
+        print(f"Removed '{modpack_id}' from index.json ({before} -> {after} entries)")
+    else:
+        print("index.json not found, nothing to update")
+
+
 if __name__ == "__main__":
-    assert API_KEY != "", "Api key can't be null"
-    process(sys.argv[1], sys.argv[2])
+    mode = sys.argv[1] # "process" ou "remove"
+    input_path = sys.argv[2]
+    output_root = sys.argv[3]
+
+    if mode == "process":
+        assert API_KEY, "Api key can't be null"
+        process(input_path, output_root)
+    elif mode == "remove":
+        remove_modpack(input_path, output_root)
+    else:
+        raise ValueError(f"Unknown mode: {mode}")

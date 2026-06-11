@@ -3,12 +3,13 @@ name: Process Modpack
 on:
   push:
     branches: [main]
-    paths:
-      - 'manifests/*.json'
-      - 'manifests/**/*.zip'
 
 permissions:
   contents: write
+
+concurrency:
+  group: process-modpack-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   process:
@@ -28,14 +29,23 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Detect changed manifests
-        id: changes
+      - name: Detect changed zips
         run: |
-          git diff --name-only HEAD^ HEAD -- manifests/ > /tmp/changed_files.txt || true
-          if [ ! -s /tmp/changed_files.txt ]; then
-            ls manifests/*.json manifests/*.zip 2>/dev/null > /tmp/changed_files.txt || true
+          git diff --name-only --diff-filter=AM HEAD^ HEAD -- '*.zip' > /tmp/added_modified.txt || true
+          grep -vE '/' /tmp/added_modified.txt > /tmp/tmp.txt || true
+          mv /tmp/tmp.txt /tmp/added_modified.txt
+
+          git diff --name-only --diff-filter=D HEAD^ HEAD -- '*.zip' > /tmp/deleted.txt || true
+          grep -vE '/' /tmp/deleted.txt > /tmp/tmp.txt || true
+          mv /tmp/tmp.txt /tmp/deleted.txt
+
+          if [ ! -s /tmp/added_modified.txt ] && [ ! -s /tmp/deleted.txt ]; then
+            ls *.zip 2>/dev/null > /tmp/added_modified.txt || true
           fi
-          cat /tmp/changed_files.txt
+
+          echo "Added/Modified:"; cat /tmp/added_modified.txt
+          echo "Deleted:"; cat /tmp/deleted.txt
+          touch /tmp/added_modified.txt /tmp/deleted.txt
 
       - name: Fetch existing index.json from data branch
         run: |
@@ -47,7 +57,7 @@ jobs:
             echo '{"modpacks": []}' > /tmp/output/index.json
           fi
 
-      - name: Process each modpack zip
+      - name: Process added/modified zips
         env:
           CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
           GITHUB_REPOSITORY: ${{ github.repository }}
@@ -55,18 +65,16 @@ jobs:
           while IFS= read -r f; do
             [ -z "$f" ] && continue
             echo "Processing $f"
-            python scripts/process_modpack.py "$f" /tmp/output
-          done < /tmp/changed_files.txt
+            python scripts/process_modpack.py process "$f" /tmp/output
+          done < /tmp/added_modified.txt
 
-      - name: Process each modpack
-        env:
-          CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
+      - name: Remove deleted modpacks
         run: |
           while IFS= read -r f; do
             [ -z "$f" ] && continue
-            echo "Processing $f"
-            python scripts/process_modpack.py "$f" /tmp/output
-          done < /tmp/changed_files.txt
+            echo "Removing $f"
+            python scripts/process_modpack.py remove "$f" /tmp/output
+          done < /tmp/deleted.txt
 
       - name: Checkout/prepare data branch
         run: |
@@ -80,12 +88,21 @@ jobs:
 
       - name: Copy generated files into data branch
         run: |
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            id=$(python3 -c "import re,sys; n=sys.argv[1].rsplit('.',1)[0]; n=n.strip().lower(); n=re.sub(r'[^\w\-]','-',n); n=re.sub(r'-+','-',n); print(n.strip('-'))" "$f")
+            rm -rf "$id"
+            echo "Removed data folder: $id"
+          done < /tmp/deleted.txt
+
           for dir in /tmp/output/*/; do
             id=$(basename "$dir")
+            [ "$id" = "*" ] && continue
             rm -rf "$id"
             mkdir -p "$id"
             cp -r "$dir"/* "$id"/
           done
+
           cp /tmp/output/index.json index.json
 
       - name: Commit & push
