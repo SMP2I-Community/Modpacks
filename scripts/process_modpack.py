@@ -7,6 +7,8 @@ import zipfile
 import hashlib
 import requests
 from pathlib import Path
+from urllib.parse import quote
+
 
 CURSEFORGE_API = "https://api.curseforge.com/v1"
 API_KEY = os.environ.get("CURSEFORGE_API_KEY")
@@ -21,6 +23,11 @@ def sha1_of_file(path):
         for chunk in iter(lambda: f.read(8192), b""):
             h.update(chunk)
     return h.hexdigest()
+
+
+def build_raw_url(base_url: str, rel_path: str) -> str:
+    encoded_segments = [quote(part) for part in rel_path.split("/")]
+    return f"{base_url}/{'/'.join(encoded_segments)}"
 
 
 def get_mod_file_info(project_id, file_id):
@@ -113,7 +120,7 @@ def process(input_path, output_root):
         download_file(info["downloadUrl"], dest)
 
         files_index[rel_path] = {
-            "url": f"{base_raw_url}/{rel_path}",
+            "url": build_raw_url(base_raw_url, rel_path),
             "size": dest.stat().st_size,
             "sha1": sha1_of_file(dest),
         }
@@ -129,7 +136,7 @@ def process(input_path, output_root):
                 shutil.copy2(src, dest)
 
                 files_index[rel_path] = {
-                    "url": f"{base_raw_url}/{rel_path}",
+                    "url": build_raw_url(base_raw_url, rel_path),
                     "size": dest.stat().st_size,
                     "sha1": sha1_of_file(dest),
                 }
