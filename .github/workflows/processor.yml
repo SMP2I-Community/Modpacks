@@ -37,11 +37,31 @@ jobs:
           fi
           cat /tmp/changed_files.txt
 
+      - name: Fetch existing index.json from data branch
+        run: |
+          mkdir -p /tmp/output
+          git fetch origin data || true
+          if git show-ref --verify --quiet refs/remotes/origin/data; then
+            git show origin/data:index.json > /tmp/output/index.json 2>/dev/null || echo '{"modpacks": []}' > /tmp/output/index.json
+          else
+            echo '{"modpacks": []}' > /tmp/output/index.json
+          fi
+
+      - name: Process each modpack zip
+        env:
+          CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            echo "Processing $f"
+            python scripts/process_modpack.py "$f" /tmp/output
+          done < /tmp/changed_files.txt
+
       - name: Process each modpack
         env:
           CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
         run: |
-          mkdir -p /tmp/output
           while IFS= read -r f; do
             [ -z "$f" ] && continue
             echo "Processing $f"
