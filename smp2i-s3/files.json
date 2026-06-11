@@ -1,0 +1,2697 @@
+{
+    "mods/betterfpsdist-1.21-6.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/betterfpsdist-1.21-6.0.jar",
+        "size": 22742,
+        "sha1": "5377aae3a0f0eb65aa5dceca4985f53480a73db5"
+    },
+    "mods/createteleporters-remastered-2.0.2b-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/createteleporters-remastered-2.0.2b-neoforge-1.21.1.jar",
+        "size": 1886362,
+        "sha1": "76fe16fb464351859113102477bf91f100984257"
+    },
+    "mods/recipeessentials-1.21-4.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/recipeessentials-1.21-4.0.jar",
+        "size": 43950,
+        "sha1": "a1ea98e7ea194807201cc8618ac9e74da65716e5"
+    },
+    "mods/create-enchantment-industry-2.3.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-enchantment-industry-2.3.1.jar",
+        "size": 684729,
+        "sha1": "e9a57b322459bda9905e4287d2582ad600909b11"
+    },
+    "mods/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar",
+        "size": 3666530,
+        "sha1": "8f3a5d415e8d5548ec1d15695af4a125bd3860dc"
+    },
+    "mods/AI-Improvements-1.21-0.5.3.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/AI-Improvements-1.21-0.5.3.jar",
+        "size": 28984,
+        "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+    },
+    "mods/cloth-config-15.0.140-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/cloth-config-15.0.140-neoforge.jar",
+        "size": 1163890,
+        "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+    },
+    "mods/dragonfight-1.21-4.7.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/dragonfight-1.21-4.7.jar",
+        "size": 35942,
+        "sha1": "9c4b7d0b3568c9cf27668264f0a4d62cd0e002f2"
+    },
+    "mods/jinxedlib-neoforge-1.21.1-1.0.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/jinxedlib-neoforge-1.21.1-1.0.4.jar",
+        "size": 69628,
+        "sha1": "4fcb38e30b7654cf94bdf7b4e1511ed860c31aae"
+    },
+    "mods/interiors-1.21.1-neoforge-0.6.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+        "size": 486912,
+        "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
+    },
+    "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+        "size": 33030286,
+        "sha1": "fdf1ae69e8b6437e0196b3a35dd2325aa904aba9"
+    },
+    "mods/create_power_loader-2.0.3-mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_power_loader-2.0.3-mc1.21.1.jar",
+        "size": 404692,
+        "sha1": "d7197ab489c30761dadfb7ef963b99bc8d505df1"
+    },
+    "mods/NoElytrasMod-NeoForge-1.21.1-1.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/NoElytrasMod-NeoForge-1.21.1-1.1.jar",
+        "size": 7063,
+        "sha1": "fb6a6c9031ef30bd240dde9b344b051005fce70e"
+    },
+    "mods/ferritecore-7.0.3-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ferritecore-7.0.3-neoforge.jar",
+        "size": 121559,
+        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+    },
+    "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+        "size": 292088,
+        "sha1": "e739d69b2de31ca8c0cb4691ab08e823f153bc44"
+    },
+    "mods/Searchables-neoforge-1.21.1-1.0.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+        "size": 77326,
+        "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    "mods/neo21.1_regrowth_CC-21.34.7.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/neo21.1_regrowth_CC-21.34.7.jar",
+        "size": 155905,
+        "sha1": "a91eaae31862f7dac784658116ef0730a87562c7"
+    },
+    "mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
+        "size": 710280,
+        "sha1": "1f0f0f1fc4202eaaa3470c76d6b18f776762d85f"
+    },
+    "mods/Chunky-NeoForge-1.4.23.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Chunky-NeoForge-1.4.23.jar",
+        "size": 340572,
+        "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
+    },
+    "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+        "size": 2215572,
+        "sha1": "22dfd6a52d31bcab58b93c2d4a637ae1b2a01895"
+    },
+    "mods/architectury-13.0.8-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/architectury-13.0.8-neoforge.jar",
+        "size": 584004,
+        "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    "mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+        "size": 4297501,
+        "sha1": "061a2c1ae0563d9d433928c243c58ee9b45f630f"
+    },
+    "mods/ok_zoomer-neo-10.0.0-beta.13.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ok_zoomer-neo-10.0.0-beta.13.jar",
+        "size": 208085,
+        "sha1": "bf38fe686628eca79cc1b33c6e60a1eb765c6b39"
+    },
+    "mods/geckolib-neoforge-1.21.1-4.8.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+        "size": 622582,
+        "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+    },
+    "mods/feur_extension_jungle-1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/feur_extension_jungle-1.21.1-neoforge.jar",
+        "size": 354679,
+        "sha1": "7e69d6ec5548ff88d8ddb2ed03c6497657da27f2"
+    },
+    "mods/ApothicEnchanting-1.21.1-1.5.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ApothicEnchanting-1.21.1-1.5.2.jar",
+        "size": 5350906,
+        "sha1": "aad9bb6b4e5ba7ea85af4d143467b99f0ed022fc"
+    },
+    "mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+        "size": 1023170,
+        "sha1": "1ca84ebfc548d23ffff733e8f264c1b92d992c10"
+    },
+    "mods/lithostitched-1.7.2-neoforge-21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/lithostitched-1.7.2-neoforge-21.1.jar",
+        "size": 810015,
+        "sha1": "ce35206214647131ebdf14212d1986349aeba79a"
+    },
+    "mods/entityculling-neoforge-1.10.1-mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+        "size": 1578350,
+        "sha1": "68759da313caf8990bcd5d961bc691fa85fa3f0e"
+    },
+    "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+        "size": 1080389,
+        "sha1": "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2"
+    },
+    "mods/Controlling-neoforge-1.21.1-19.0.5.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+        "size": 77555,
+        "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    "mods/familiarslib-1.21.1-1.7_HotFix.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/familiarslib-1.21.1-1.7_HotFix.jar",
+        "size": 340984,
+        "sha1": "1bdd88f68830c3ee7c98f546aa6dbb9ee093d46b"
+    },
+    "mods/giant_swamp_tree-1.0.1-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/giant_swamp_tree-1.0.1-neoforge-1.21.1.jar",
+        "size": 74303,
+        "sha1": "67733f347e3f7cb1e9caf5415e1c36d415d51fee"
+    },
+    "mods/fastleafdecay-35.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/fastleafdecay-35.jar",
+        "size": 9511,
+        "sha1": "589f05dcd58d3708cee9046b23fe11fb81a25d2e"
+    },
+    "mods/guardvillagers-2.4.7-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/guardvillagers-2.4.7-1.21.1.jar",
+        "size": 282953,
+        "sha1": "f49fdffa04398ad5344667f03b0bf581bae0280d"
+    },
+    "mods/melody_neoforge_1.0.10_MC_1.21.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/melody_neoforge_1.0.10_MC_1.21.jar",
+        "size": 36096,
+        "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698"
+    },
+    "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+        "size": 1185088,
+        "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565"
+    },
+    "mods/irons_jewelry-1.21.1-1.6.1.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/irons_jewelry-1.21.1-1.6.1.1.jar",
+        "size": 715744,
+        "sha1": "9ede70b8900aa6372e09747861a2c68f7a271e0c"
+    },
+    "mods/GoodEnding-1.21.1-1.1.0-NeoForge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/GoodEnding-1.21.1-1.1.0-NeoForge.jar",
+        "size": 12584606,
+        "sha1": "f2960190c810d80b42a2c0a155f15bbe89581a8a"
+    },
+    "mods/summoningrituals-neoforge-1.21.1-3.13.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/summoningrituals-neoforge-1.21.1-3.13.1.jar",
+        "size": 350313,
+        "sha1": "7ff7dad56efed8672982513f997d1a1c46d2e7e1"
+    },
+    "mods/SkeletonAIFix-v21.1.1-1.21.1-NeoForge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/SkeletonAIFix-v21.1.1-1.21.1-NeoForge.jar",
+        "size": 45576,
+        "sha1": "1f4695061a2134a6361dcab03ec76c7a0a6428e2"
+    },
+    "mods/ApothicAttributes-1.21.1-2.9.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ApothicAttributes-1.21.1-2.9.1.jar",
+        "size": 314269,
+        "sha1": "e7f669e1b45d75076200436f37c40a6dd3b6a6ff"
+    },
+    "mods/cupboard-1.21-3.5.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/cupboard-1.21-3.5.jar",
+        "size": 26659,
+        "sha1": "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70"
+    },
+    "mods/rhino-2101.2.7-build.81.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/rhino-2101.2.7-build.81.jar",
+        "size": 882032,
+        "sha1": "5dcc80079095706645d567353095297948a41eea"
+    },
+    "mods/riverredux-forge-0.4.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/riverredux-forge-0.4.0.jar",
+        "size": 53376,
+        "sha1": "16f45009ba4458e39fe18d553d21957fededa090"
+    },
+    "mods/moreoverlays-1.24.2-mc1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/moreoverlays-1.24.2-mc1.21.1-neoforge.jar",
+        "size": 112984,
+        "sha1": "21e8bd61c5e146a9574266015d3f64621c2d9e18"
+    },
+    "mods/Pretty Rain-1.21.1-NeoForge-1.1.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Pretty%20Rain-1.21.1-NeoForge-1.1.4.jar",
+        "size": 589641,
+        "sha1": "6b2691fab1a40995095814b019cb55cb0f7be610"
+    },
+    "mods/starterkit-1.21.1-8.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/starterkit-1.21.1-8.0.jar",
+        "size": 274327,
+        "sha1": "22c1da92ca4626dfa3f4cc9fb58aab36be8bffd2"
+    },
+    "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+        "size": 1791747,
+        "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
+    },
+    "mods/create_easy_structures-0.2a-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_easy_structures-0.2a-neoforge-1.21.1.jar",
+        "size": 469490,
+        "sha1": "5878bdf8facd954cce7da3a55ab1d5274fe4ef6d"
+    },
+    "mods/solcarrot-1.21.1-1.16.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/solcarrot-1.21.1-1.16.6.jar",
+        "size": 105355,
+        "sha1": "32e9bbe18ae1f2f7f672ce08af51ec1928599182"
+    },
+    "mods/waystones-neoforge-1.21.1-21.1.30.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/waystones-neoforge-1.21.1-21.1.30.jar",
+        "size": 877356,
+        "sha1": "1321fbbe1484498b481ef05b6aef374b07fe6a23"
+    },
+    "mods/sliceanddice-forge-4.2.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sliceanddice-forge-4.2.4.jar",
+        "size": 406699,
+        "sha1": "13d8835813b3851d4818c59ec8f7124e4a826c14"
+    },
+    "mods/create-stuff-additions1.21.1_v2.1.0e.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-stuff-additions1.21.1_v2.1.0e.jar",
+        "size": 1318700,
+        "sha1": "5de330acd44af9e09430a7710687ad176dabf1e2"
+    },
+    "mods/create_wizardry-1.21.1-0.4.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_wizardry-1.21.1-0.4.2.jar",
+        "size": 243474,
+        "sha1": "28a8db864c8e0553cd387eedb845bd3fec603d02"
+    },
+    "mods/capybara-3.0.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/capybara-3.0.0.jar",
+        "size": 130023,
+        "sha1": "fa2a13a7cf076baa4aec71f3404464a0cd46d5eb"
+    },
+    "mods/Geophilic v3.4.6.mod.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Geophilic%20v3.4.6.mod.jar",
+        "size": 751598,
+        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
+    },
+    "mods/create_oxidized-0.1.3.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_oxidized-0.1.3.jar",
+        "size": 121297,
+        "sha1": "fe93a9575174b4993cf3fb5f2aed4dd4431096ee"
+    },
+    "mods/DnT-swamp-hut-overhaul-v2 [NeoForge].jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/DnT-swamp-hut-overhaul-v2%20%5BNeoForge%5D.jar",
+        "size": 112184,
+        "sha1": "bb1ba40b6089571f761ad443cc49543d5f645bdd"
+    },
+    "mods/naturalsizes-1.1-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/naturalsizes-1.1-neoforge-1.21.1.jar",
+        "size": 7152,
+        "sha1": "7b22ef36b8b12deb6af30399d8deacaf3414c487"
+    },
+    "mods/createbetterfps-1.21.1-1.1.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/createbetterfps-1.21.1-1.1.4.jar",
+        "size": 26547,
+        "sha1": "c594e20659b73a67bd0b0c2de45b29b78a2eb160"
+    },
+    "mods/Apotheosis-1.21.1-8.5.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Apotheosis-1.21.1-8.5.2.jar",
+        "size": 6964172,
+        "sha1": "eb484177b383dc397bfa37d06ef09ec39053bb50"
+    },
+    "mods/molten_vents-1.21.1-2.1.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/molten_vents-1.21.1-2.1.1.jar",
+        "size": 88500,
+        "sha1": "0d645330128d1d7dc0b330760f4517d3ff4a2a9d"
+    },
+    "mods/smoothchunk-1.21-4.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/smoothchunk-1.21-4.1.jar",
+        "size": 12852,
+        "sha1": "f54d5d352e15560240f151a7d054096a33a58f4a"
+    },
+    "mods/clickadv-1.21-3.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/clickadv-1.21-3.8.jar",
+        "size": 14593,
+        "sha1": "1aeae5774513fdc82fa52d544edcd72b26c498b8"
+    },
+    "mods/irons_lib-1.21.1-1.0.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/irons_lib-1.21.1-1.0.2.jar",
+        "size": 374610,
+        "sha1": "ef92f362a352a30f927c30c2be72a2d843c41342"
+    },
+    "mods/ClimateRivers-v21.1.3-1.21.1-NeoForge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ClimateRivers-v21.1.3-1.21.1-NeoForge.jar",
+        "size": 56642,
+        "sha1": "6df9f2ee359a46de5c0baa29b426c541e06f50bd"
+    },
+    "mods/ftb-library-neoforge-2101.1.31.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ftb-library-neoforge-2101.1.31.jar",
+        "size": 1411181,
+        "sha1": "686d4e784c28c14f7760cc22b2de6a8573b56b74"
+    },
+    "mods/spawn-4.0.4-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/spawn-4.0.4-1.21.1.jar",
+        "size": 83632344,
+        "sha1": "1d42b48451a87a9b47d5002a890aebff49e6d87e"
+    },
+    "mods/ReworkedPhantoms-1.2.5+NeoForge-1.21.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ReworkedPhantoms-1.2.5%2BNeoForge-1.21.jar",
+        "size": 26449,
+        "sha1": "9d5e38b6db87cd5cd252ca3416bca543e554ddb6"
+    },
+    "mods/swampboat-1.0.2-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/swampboat-1.0.2-neoforge-1.21.1.jar",
+        "size": 26310,
+        "sha1": "6bb456970a72269f589ac975cce85c4a99b16c80"
+    },
+    "mods/supplementaries-1.21-3.5.34-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/supplementaries-1.21-3.5.34-neoforge.jar",
+        "size": 13366044,
+        "sha1": "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
+    },
+    "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "size": 120364,
+        "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191"
+    },
+    "mods/entity_model_features_1.21-neoforge-3.2.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/entity_model_features_1.21-neoforge-3.2.2.jar",
+        "size": 565641,
+        "sha1": "98d542ad10a55553d72fea135a67781f328b54aa"
+    },
+    "mods/Terralith_1.21.x_v2.5.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Terralith_1.21.x_v2.5.8.jar",
+        "size": 3115385,
+        "sha1": "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085"
+    },
+    "mods/SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/SereneShrubbery-NeoForge-1.21.1-v2.3.2.jar",
+        "size": 628585,
+        "sha1": "1075bb737f8bab016fd48701a43d1c4213c68e28"
+    },
+    "mods/ftb-teams-neoforge-2101.1.10.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ftb-teams-neoforge-2101.1.10.jar",
+        "size": 302712,
+        "sha1": "363376ae0fb22cb0527170fdf6a066d1da9b0225"
+    },
+    "mods/Galosphere-1.21.1-1.5.3-NeoForge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Galosphere-1.21.1-1.5.3-NeoForge.jar",
+        "size": 35546284,
+        "sha1": "2cc8119b05f716639c5aff59185a3f52d00969a8"
+    },
+    "mods/createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/createenchantablemachinery-3.6.0%2Bmc1.21.1-neoforge.jar",
+        "size": 575739,
+        "sha1": "ed9a5cf654235f54a3c5aced27ac654d5258e393"
+    },
+    "mods/createornithopterglider-1.0.3-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/createornithopterglider-1.0.3-1.21.1.jar",
+        "size": 724735,
+        "sha1": "d28f2eeeb3399606d89f0c45409497f770dd5be5"
+    },
+    "mods/create-1.21.1-6.0.10.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-1.21.1-6.0.10.jar",
+        "size": 19123767,
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
+    },
+    "mods/anvilcore-10.1 Release-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/anvilcore-10.1%20Release-neoforge-1.21.1.jar",
+        "size": 104557,
+        "sha1": "d807fa23228c5260aa85413c4eab03a577cdd255"
+    },
+    "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "size": 18382,
+        "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c"
+    },
+    "mods/jeed-1.21-2.3.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/jeed-1.21-2.3.2.jar",
+        "size": 164003,
+        "sha1": "144ffaf459b58db14614a7e1ef3425c2594e30b6"
+    },
+    "mods/forgematica-0.4.1+mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/forgematica-0.4.1%2Bmc1.21.1.jar",
+        "size": 1383228,
+        "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
+    },
+    "mods/create_winery-2.0.2-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_winery-2.0.2-neoforge-1.21.1.jar",
+        "size": 513007,
+        "sha1": "f6c40e927550c68c3091376d7279aa97c23cd2c2"
+    },
+    "mods/moonlight-1.21-2.29.33-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/moonlight-1.21-2.29.33-neoforge.jar",
+        "size": 1596760,
+        "sha1": "24e720753a7abc80f6673cf957c1e74aed52c084"
+    },
+    "mods/gpumemleakfix-1.21-1.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/gpumemleakfix-1.21-1.8.jar",
+        "size": 6574,
+        "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208"
+    },
+    "mods/create_aquatic_ambitions-1.21.1-2.0.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_aquatic_ambitions-1.21.1-2.0.2.jar",
+        "size": 1041906,
+        "sha1": "39945d25188f3cb8feb74d09b78d7f7f7a74aaa7"
+    },
+    "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "size": 202454,
+        "sha1": "31cf754f9e5f62d1ca257f297e5dce394024696c"
+    },
+    "mods/torchmaster-neoforge-1.21.1-21.1.9.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/torchmaster-neoforge-1.21.1-21.1.9.jar",
+        "size": 130605,
+        "sha1": "3f565ecc8560eba3ae3e15ff6542a3025d7377a2"
+    },
+    "mods/deployer-0.1.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/deployer-0.1.2.jar",
+        "size": 2010014,
+        "sha1": "c3d2d9baad2e714cb8bf8ae6df9bc9cac6e87c1c"
+    },
+    "mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+        "size": 1933309,
+        "sha1": "a7713e65d5c5bbda51ef396275869db3f5d675a6"
+    },
+    "mods/mafglib-0.4.3+mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/mafglib-0.4.3%2Bmc1.21.1.jar",
+        "size": 1314767,
+        "sha1": "9f62df832b1d5c9fe1aead873bd65cb8defacac7"
+    },
+    "mods/extra_gauges-2.1.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/extra_gauges-2.1.2.jar",
+        "size": 1055930,
+        "sha1": "d6bc0896c33213d6b5623dba053dab2df9502bd4"
+    },
+    "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+        "size": 82316,
+        "sha1": "51851c61e8be5b799b5ad8aa109b3416509605b7"
+    },
+    "mods/enchdesc-neoforge-1.21.1-21.1.9.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
+        "size": 81847,
+        "sha1": "e4fa515c5deab3165f250f2a1297ac836d496064"
+    },
+    "mods/irons_spellbooks-1.21.1-3.15.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/irons_spellbooks-1.21.1-3.15.6.jar",
+        "size": 13559913,
+        "sha1": "c9fea9c9b38376af74b7a7da68dc8a7671f4b961"
+    },
+    "mods/CreateDragonsPlus-1.10.0b.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/CreateDragonsPlus-1.10.0b.jar",
+        "size": 756460,
+        "sha1": "e50ae4f50173b12232b8dbd6b85568b4b657c0cf"
+    },
+    "mods/ApothicSpawners-1.21.1-1.3.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ApothicSpawners-1.21.1-1.3.4.jar",
+        "size": 125015,
+        "sha1": "26d701238bdb76a497a64f588409419ad067e557"
+    },
+    "mods/fieldguide-neoforge-1.21.1-1.7.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/fieldguide-neoforge-1.21.1-1.7.2.jar",
+        "size": 1114125,
+        "sha1": "e2e3b86349507f9694edc2b3e4b925c54031e2ed"
+    },
+    "mods/someassemblyrequired-5.2.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/someassemblyrequired-5.2.8.jar",
+        "size": 451898,
+        "sha1": "5e7fc02b85c7c6f128bdebd65b6133734fce7088"
+    },
+    "mods/structureessentials-1.21.1-5.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/structureessentials-1.21.1-5.0.jar",
+        "size": 60833,
+        "sha1": "5c059c2cb2ad8c43e1384b0939bf258801aadfea"
+    },
+    "mods/fusion-1.2.12-neoforge-mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
+        "size": 532912,
+        "sha1": "d86f641b67d4b01d99da8424ba2a3edc0e6690b6"
+    },
+    "mods/lootr-neoforge-1.21.1-1.11.37.119.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/lootr-neoforge-1.21.1-1.11.37.119.jar",
+        "size": 975843,
+        "sha1": "3c804b59aa7d424aec1109a045d6d62e0c0effc9"
+    },
+    "mods/clientcrafting-1.21-2.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/clientcrafting-1.21-2.1.jar",
+        "size": 7144,
+        "sha1": "ed816decf1ce06bd17b3a446b4fddd33b07ace40"
+    },
+    "mods/TaxFreeLevels-1.4.7-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/TaxFreeLevels-1.4.7-neoforge-1.21.1.jar",
+        "size": 34284,
+        "sha1": "36327d847462f5bb17bfddf1f01e3fc3d71b96cf"
+    },
+    "mods/create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_structures_arise-174.47.46%20Release-neoforge-1.21.1.jar",
+        "size": 1111819,
+        "sha1": "53c5811a747c555fe70032f4712bc1e0903cb057"
+    },
+    "mods/artifacts-neoforge-13.2.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/artifacts-neoforge-13.2.1.jar",
+        "size": 1030252,
+        "sha1": "3fe4d52cc0b11d91c75005030e83e3f675e62383"
+    },
+    "mods/variantsandventures-neoforge-1.0.24+mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/variantsandventures-neoforge-1.0.24%2Bmc1.21.1.jar",
+        "size": 1080608,
+        "sha1": "e9ac63dcd62988323301678134ca3d6ecb5fc791"
+    },
+    "mods/collective-1.21.1-8.22.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/collective-1.21.1-8.22.jar",
+        "size": 943020,
+        "sha1": "f3f8b8baf461ea8e8664cf1f8fe6593f8073f36d"
+    },
+    "mods/caelus-neoforge-7.0.1+1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/caelus-neoforge-7.0.1%2B1.21.1.jar",
+        "size": 50235,
+        "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
+    },
+    "mods/bookshelf-neoforge-1.21.1-21.1.81.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "size": 328813,
+        "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+    },
+    "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+        "size": 224657,
+        "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95"
+    },
+    "mods/create_furnitures-1.1.2-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_furnitures-1.1.2-neoforge-1.21.1.jar",
+        "size": 514394,
+        "sha1": "0c10c3a0aac7b095b295d89aca6f76399d9e035f"
+    },
+    "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+        "size": 1118651,
+        "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb"
+    },
+    "mods/kotlinforforge-5.11.0-all.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/kotlinforforge-5.11.0-all.jar",
+        "size": 6869790,
+        "sha1": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
+    },
+    "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "size": 73938,
+        "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+    },
+    "mods/jei-1.21.1-neoforge-19.27.0.336.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/jei-1.21.1-neoforge-19.27.0.336.jar",
+        "size": 1529192,
+        "sha1": "d02c849e4e321e7b056a48e0242ec641560c2ab8"
+    },
+    "mods/sable-neoforge-1.21.1-1.2.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sable-neoforge-1.21.1-1.2.2.jar",
+        "size": 12719293,
+        "sha1": "c5ecd3fcf60a31d84112c708abe29e341b2d1b73"
+    },
+    "mods/curios-neoforge-9.5.1+1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+        "size": 410690,
+        "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+    },
+    "mods/Patchouli-1.21.1-93-NEOFORGE.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+        "size": 646777,
+        "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
+    },
+    "mods/balm-neoforge-1.21.1-21.0.56.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/balm-neoforge-1.21.1-21.0.56.jar",
+        "size": 739709,
+        "sha1": "c1c1d4859c7943c7d1c181c07fa7273a1d56df15"
+    },
+    "mods/MushroomQuest-NeoForge-1.21.1-v4.3.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/MushroomQuest-NeoForge-1.21.1-v4.3.1.jar",
+        "size": 1443183,
+        "sha1": "896c85f67651f9947490661926aa9a543fa45217"
+    },
+    "mods/lootintegrations-1.21.1-4.7.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/lootintegrations-1.21.1-4.7.jar",
+        "size": 36966,
+        "sha1": "ba601fe630f444d974838bfd80a185a0e3e0309c"
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/worldedit-mod-7.3.8.jar",
+        "size": 6222854,
+        "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
+    },
+    "mods/blueprint-1.21.1-8.0.8.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/blueprint-1.21.1-8.0.8.jar",
+        "size": 1098679,
+        "sha1": "9f9549cecaee3f4cb03d9c829b148a110a0efb54"
+    },
+    "mods/create_things_and_misc-4.1.0-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
+        "size": 1032486,
+        "sha1": "4b6d2bef5a99cf15667c0b19dcb5dc514b5f6d90"
+    },
+    "mods/comforts-neoforge-9.0.5+1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/comforts-neoforge-9.0.5%2B1.21.1.jar",
+        "size": 422658,
+        "sha1": "21d6bee3821d62fe3356c51fb1d697871a3087ff"
+    },
+    "mods/sussysniffers-1.21.1-0.1.3.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sussysniffers-1.21.1-0.1.3.jar",
+        "size": 95574,
+        "sha1": "c7c838abeb62f6dc6b1c22336f2a96c592bc5948"
+    },
+    "mods/simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/simple_snowy_fix-1.21.1-1.21.11-2.1.9-neoforge.jar",
+        "size": 120671,
+        "sha1": "f2d4571a78cb109d211efc8c1dafef6116e7f583"
+    },
+    "mods/autumnity-1.21.1-6.0.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/autumnity-1.21.1-6.0.1.jar",
+        "size": 1261462,
+        "sha1": "3863fa0d77f89955b04ecaad9a3a9c91f76937d8"
+    },
+    "mods/fastasyncworldsave-1.21-2.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/fastasyncworldsave-1.21-2.6.jar",
+        "size": 11050,
+        "sha1": "87e019715314631f2c8288cf7c73a52a61b2d61b"
+    },
+    "mods/connectivity-1.21.1-7.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/connectivity-1.21.1-7.6.jar",
+        "size": 114165,
+        "sha1": "6adebe84f745dec8fa33bc3982383bc1cc24d49e"
+    },
+    "mods/alloyed-3.0.6+1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/alloyed-3.0.6%2B1.21.1-neoforge.jar",
+        "size": 853579,
+        "sha1": "a21b9acb7a3185d9cec93a6872bccca1afc265c9"
+    },
+    "mods/villagesandpillages-neoforge-mc1.21.1-1.0.3.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/villagesandpillages-neoforge-mc1.21.1-1.0.3.jar",
+        "size": 241257,
+        "sha1": "f587626ba0b421f976f4bd1141bcdc3ca9d21abb"
+    },
+    "mods/Placebo-1.21.1-9.9.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Placebo-1.21.1-9.9.1.jar",
+        "size": 324056,
+        "sha1": "1c2b8c38066d6f36209c5dadee25c184ef65202e"
+    },
+    "mods/betterchunkloading-1.21-5.4.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/betterchunkloading-1.21-5.4.jar",
+        "size": 52980,
+        "sha1": "848d47200e760cfa566e476257ff863de30d7f8f"
+    },
+    "mods/prickle-neoforge-1.21.1-21.1.11.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+        "size": 84812,
+        "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36"
+    },
+    "mods/konkrete_neoforge_1.9.9_MC_1.21.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "size": 618842,
+        "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
+    },
+    "mods/sophisticatedcore-1.21.1-1.4.33.1808.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sophisticatedcore-1.21.1-1.4.33.1808.jar",
+        "size": 1482610,
+        "sha1": "d7f68f39193abf557cd27c27507f20deb499b593"
+    },
+    "mods/item_descriptions-2.7.2+1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/item_descriptions-2.7.2%2B1.21.1-neoforge.jar",
+        "size": 574304,
+        "sha1": "492eaaf303ab363b2d252a2ad45c452a521bae04"
+    },
+    "mods/structurify-neoforge-2.0.22+mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/structurify-neoforge-2.0.22%2Bmc1.21.1.jar",
+        "size": 372970,
+        "sha1": "6c6e5c2edc956b2e1fb6909599b862bc2fe68dc4"
+    },
+    "mods/kubejs-neoforge-2101.7.2-build.363.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/kubejs-neoforge-2101.7.2-build.363.jar",
+        "size": 2270442,
+        "sha1": "d4e88254e8c26687d4c6aeb4dfa9c2ad70f260a2"
+    },
+    "mods/tectonic-3.0.22-neoforge-21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/tectonic-3.0.22-neoforge-21.1.jar",
+        "size": 337253,
+        "sha1": "12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314"
+    },
+    "mods/shineals_prehistoric_expansion-1.5.1-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/shineals_prehistoric_expansion-1.5.1-neoforge-1.21.1.jar",
+        "size": 7319706,
+        "sha1": "e26956de0b91465001b49f6b7c224192104dad26"
+    },
+    "mods/alshanex_familiars-1.21.1_v4.0.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/alshanex_familiars-1.21.1_v4.0.1.jar",
+        "size": 21848296,
+        "sha1": "6416abe3edb6cbd6fdddb0cfcab14b6b9c70ee22"
+    },
+    "mods/player-animation-lib-forge-2.0.4+1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+        "size": 203149,
+        "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+    },
+    "mods/upgrade_aquatic-1.21.1-7.0.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/upgrade_aquatic-1.21.1-7.0.1.jar",
+        "size": 4925541,
+        "sha1": "439a90a9eb660822af3ec0fc7af8d3770bbc40af"
+    },
+    "mods/entity_texture_features_1.21-neoforge-7.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/entity_texture_features_1.21-neoforge-7.1.jar",
+        "size": 752334,
+        "sha1": "56de40b237ff44dbf1bb68844e0f118607902684"
+    },
+    "mods/atlas_api-1.21.1-1.2.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/atlas_api-1.21.1-1.2.0.jar",
+        "size": 28419,
+        "sha1": "79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998"
+    },
+    "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "size": 388678,
+        "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+    },
+    "mods/immersiveoverlays-1.6.3+1.21.1-neoforge.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/immersiveoverlays-1.6.3%2B1.21.1-neoforge.jar",
+        "size": 292111,
+        "sha1": "6934d7f7fa16010ae4b27893e6bf4edabed40b27"
+    },
+    "mods/spells_gone_wrong-1.21.1-2.0.0.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/spells_gone_wrong-1.21.1-2.0.0.jar",
+        "size": 87712,
+        "sha1": "ea330835a803744a5ec8c568a0bd073310588f96"
+    },
+    "mods/farsight-1.21.1-4.5.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/farsight-1.21.1-4.5.jar",
+        "size": 438450,
+        "sha1": "96e0bf57ca4ae7764b63bcb1a6774cfd9e3376df"
+    },
+    "mods/create_sna-1.2-neoforge-1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_sna-1.2-neoforge-1.21.1.jar",
+        "size": 204038,
+        "sha1": "8d7889a851ab8258bae5edf4af5f85e09d225191"
+    },
+    "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+        "size": 368598,
+        "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+    },
+    "mods/FarmersDelight-1.21.1-1.3.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/FarmersDelight-1.21.1-1.3.1.jar",
+        "size": 3124506,
+        "sha1": "49477fafca740e7ae348d934b552fb313358e8fe"
+    },
+    "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+        "size": 341009,
+        "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+    },
+    "mods/combat_roll-neoforge-2.0.6+1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/combat_roll-neoforge-2.0.6%2B1.21.1.jar",
+        "size": 193381,
+        "sha1": "8b9676996e2b49520ac29d92e6068089c5f40baa"
+    },
+    "mods/Jade-1.21.1-NeoForge-15.10.5.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+        "size": 725742,
+        "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
+    },
+    "mods/appleskin-neoforge-mc1.21-3.0.9.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "size": 75804,
+        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    "mods/kubejs-create-neoforge-2101.3.1-build.18.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
+        "size": 38630,
+        "sha1": "d4dce8f82f2d37545f085522a782c1bfda222154"
+    },
+    "mods/create-integrated-farming-1.2.2.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-integrated-farming-1.2.2.jar",
+        "size": 408059,
+        "sha1": "e6fb605b92f59fd91f57016d5666f618db740b1a"
+    },
+    "mods/resourcefullib-neoforge-1.21-3.0.12.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+        "size": 484332,
+        "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+    },
+    "mods/ftb-quests-neoforge-2101.1.24.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ftb-quests-neoforge-2101.1.24.jar",
+        "size": 1466155,
+        "sha1": "abe5eeccbddf10ae4e40c350cdb6e95ee9e4cde1"
+    },
+    "mods/sodium-neoforge-0.6.13+mc1.21.1.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+        "size": 1162994,
+        "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1"
+    },
+    "config/taxfreelevels.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/taxfreelevels.json",
+        "size": 48,
+        "sha1": "483ffe5442538a5191d8e6785a4fcba8f29b611b"
+    },
+    "config/offroad-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/offroad-server.toml",
+        "size": 1167,
+        "sha1": "ffcf430144dfb7acb9839fdfcc7cc97bc2922365"
+    },
+    "config/farmersdelight-client-1.toml.bak": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/farmersdelight-client-1.toml.bak",
+        "size": 365,
+        "sha1": "922ef1cdf87795d0134ca8c0c4b1a9eb290f0ec6"
+    },
+    "config/ftbteams-server.snbt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ftbteams-server.snbt",
+        "size": 742,
+        "sha1": "a07a210d16244733f7def4c5ba8f7f1885965162"
+    },
+    "config/apothic_spawners.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/apothic_spawners.cfg",
+        "size": 1145,
+        "sha1": "5140892f31892d4d90f1704dfcd6a94ce5a33719"
+    },
+    "config/fieldguide-server.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fieldguide-server.json",
+        "size": 819,
+        "sha1": "dd66f46da4c362e4e2248865c3e3b371b4a573d1"
+    },
+    "config/farmersdelight-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/farmersdelight-client.toml",
+        "size": 476,
+        "sha1": "649ffb20a99fa6a43ce25a5207c5461fee9f135d"
+    },
+    "config/creeperoverhaul.jsonc": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/creeperoverhaul.jsonc",
+        "size": 1913,
+        "sha1": "a8ce6e5ce07b21cc431e88978d1377cdcf85bf2f"
+    },
+    "config/moreoverlays.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/moreoverlays.toml",
+        "size": 3458,
+        "sha1": "cc6ca999a0996ad8bcac9f4da09739dc9dfdf753"
+    },
+    "config/entityculling.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/entityculling.json",
+        "size": 1897,
+        "sha1": "d61877c33f48dfceaf2991fe8987bd7c946e4345"
+    },
+    "config/blueprint-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/blueprint-common.toml",
+        "size": 523,
+        "sha1": "6d459bb8363766cb774dadd4062057123b56b04e"
+    },
+    "config/tectonic.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/tectonic.json",
+        "size": 1539,
+        "sha1": "6b0475d04ea67c7c6cad2bfac52605552993aac8"
+    },
+    "config/malilib.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/malilib.json",
+        "size": 675,
+        "sha1": "32f29cea650f12291587aa0c06e7d6d11be812f3"
+    },
+    "config/create-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create-client.toml",
+        "size": 4795,
+        "sha1": "421de5ea5e5255b28219d47d4a89f0886c2314b2"
+    },
+    "config/flywheel-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/flywheel-client.toml",
+        "size": 637,
+        "sha1": "224fe1538bf5a72ec54f397067e6d2d99158006d"
+    },
+    "config/aeronautics-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/aeronautics-server.toml",
+        "size": 3066,
+        "sha1": "e01adc163a806d84330b7778e11acb0ce3d33678"
+    },
+    "config/upgrade_aquatic-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/upgrade_aquatic-client.toml",
+        "size": 432,
+        "sha1": "43c1b58adc21737f358e35c6ef1b8f8fd0e5f7c9"
+    },
+    "config/unnamedanimalmod-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/unnamedanimalmod-common.toml",
+        "size": 105,
+        "sha1": "5695e6be7b85077d66a4a118095fa42be7172ce6"
+    },
+    "config/ribbits-neoforge-1_21_1.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ribbits-neoforge-1_21_1.toml",
+        "size": 403,
+        "sha1": "35d0bd4c7d2cb629f56610e8629da9e35b6b8926"
+    },
+    "config/create_enchantment_industry-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_enchantment_industry-server.toml",
+        "size": 6462,
+        "sha1": "349858a478ef90f854b420d9f5c4963480b3f4e2"
+    },
+    "config/smoothchunk.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/smoothchunk.json",
+        "size": 585,
+        "sha1": "c0ab21a89a4606961252780d77c1d549098f0d9e"
+    },
+    "config/item_descriptions.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/item_descriptions.toml",
+        "size": 5050,
+        "sha1": "236b3c937dd034d54b164cdb637d78f57fab2594"
+    },
+    "config/yacl.json5": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/yacl.json5",
+        "size": 250,
+        "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
+    },
+    "config/supplementaries-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/supplementaries-client.toml",
+        "size": 9292,
+        "sha1": "852ee69a577a9b8504d1403ddee0d7a4e6fd1af7"
+    },
+    "config/blueprint-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/blueprint-client.toml",
+        "size": 902,
+        "sha1": "6ea01d55dda3d4f8772b1d6eb4ae43d453acfe83"
+    },
+    "config/comforts-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/comforts-common.toml",
+        "size": 189,
+        "sha1": "9f35d6dfdcbc8773d8a057bffbfac5c8d9ed1b0a"
+    },
+    "config/sable-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sable-client.toml",
+        "size": 680,
+        "sha1": "cd21ff5711c6f5a7dfa97f7a5f6c7d67b0e051d7"
+    },
+    "config/sophisticatedcore-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sophisticatedcore-common.toml",
+        "size": 3080,
+        "sha1": "30db5b8fc99015d870083203a534bfb276eb80c3"
+    },
+    "config/solcarrot-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/solcarrot-client.toml",
+        "size": 720,
+        "sha1": "531388ecf17f6e94a938922fd5267467c9d0e9bb"
+    },
+    "config/lithostitched.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/lithostitched.json",
+        "size": 284,
+        "sha1": "d8ab129158fc6ff5d685a9938528ec1d35c83e48"
+    },
+    "config/createteleportersconfig.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/createteleportersconfig.toml",
+        "size": 918,
+        "sha1": "5da71a56ddf446f805ef72bf814e022823401f89"
+    },
+    "config/irons_spellbooks-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/irons_spellbooks-client.toml",
+        "size": 3443,
+        "sha1": "ce548661a958eaec60facba79984881c1fe3a902"
+    },
+    "config/farmersdelight-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/farmersdelight-common.toml",
+        "size": 3817,
+        "sha1": "22ae7adef208546817f45205ffedb08b99e8d63a"
+    },
+    "config/naturalsizes-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/naturalsizes-common.toml",
+        "size": 424,
+        "sha1": "1ffa16f38522f2031ec475e8295623a2697f9b68"
+    },
+    "config/torchmaster.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/torchmaster.toml",
+        "size": 2789,
+        "sha1": "c17421c8b45c1a10502ca2ecf0c1bd0af0d9d5ff"
+    },
+    "config/waystones-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/waystones-common.toml",
+        "size": 6238,
+        "sha1": "c534e0f491acba3071a77b0372d48262a609f293"
+    },
+    "config/sophisticatedbackpacks-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sophisticatedbackpacks-common.toml",
+        "size": 118,
+        "sha1": "faab0a1537b5377ed89cf1a2f6e660116a15891b"
+    },
+    "config/fastleafdecay-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fastleafdecay-server.toml",
+        "size": 258,
+        "sha1": "667b8808aa084687ede115d1edd3a462168d9bdf"
+    },
+    "config/deployer-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/deployer-server.toml",
+        "size": 276,
+        "sha1": "3cdb7a04d7c0e4df0cf43851c72878e93040b3cd"
+    },
+    "config/extra_gauges-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/extra_gauges-server.toml",
+        "size": 411,
+        "sha1": "0d1850fc73c0aaad5175ccd038b7ddf48a278464"
+    },
+    "config/simulated-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/simulated-server.toml",
+        "size": 6987,
+        "sha1": "8451304edfebcaa4db34208d7f40ce7aae73148d"
+    },
+    "config/betterchunkloading.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/betterchunkloading.json",
+        "size": 2049,
+        "sha1": "df5d39f49958feccd1163b3096364fd942f83fa2"
+    },
+    "config/spells_gone_wrong-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/spells_gone_wrong-common.toml",
+        "size": 5239,
+        "sha1": "d30acc05cfc70463939b76d926ee31db24497250"
+    },
+    "config/ftblibrary-client.snbt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ftblibrary-client.snbt",
+        "size": 1651,
+        "sha1": "1a6fd5dcd4e4b6545de440edea6f604029fce5ff"
+    },
+    "config/spawn-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/spawn-server.toml",
+        "size": 1790,
+        "sha1": "797442f6b67687824276fcccf140b75baa59d849"
+    },
+    "config/sliceanddice-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sliceanddice-client.toml",
+        "size": 29,
+        "sha1": "10fda97229b3d0f41ebb5016afad9e37e4444c1d"
+    },
+    "config/naturalsizes-common-1.toml.bak": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/naturalsizes-common-1.toml.bak",
+        "size": 425,
+        "sha1": "cf9b754f391a71f5f19542352ad8319ac5684301"
+    },
+    "config/summoningrituals-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/summoningrituals-common.toml",
+        "size": 351,
+        "sha1": "5416737fccc355ea2b07daf23e96a3794b69b7a4"
+    },
+    "config/create_aquatic_ambitions-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_aquatic_ambitions-server.toml",
+        "size": 922,
+        "sha1": "124f851c7341d12a0f5db7bc100aeeb88f82f469"
+    },
+    "config/moonlight-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/moonlight-client.toml",
+        "size": 1283,
+        "sha1": "b526f2443c89773338e2b1076d7ebf6eaf0e810a"
+    },
+    "config/starterkit.json5": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit.json5",
+        "size": 1511,
+        "sha1": "1c5240fcc1ab77e44d3224e9d162ce247246329c"
+    },
+    "config/sodium-mixins.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sodium-mixins.properties",
+        "size": 258,
+        "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    "config/lootr-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/lootr-common.toml",
+        "size": 8201,
+        "sha1": "28391f91675915e0afc9488c487549c248df3b5c"
+    },
+    "config/lootintegrations.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/lootintegrations.json",
+        "size": 929,
+        "sha1": "0f57905bc951c9c803e733d574232a015bc5f42b"
+    },
+    "config/create_power_loader-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_power_loader-server.toml",
+        "size": 3107,
+        "sha1": "4df9957dd44b3dee0caa0b03cc219c279d292e00"
+    },
+    "config/create_wizardry-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_wizardry-common.toml",
+        "size": 330,
+        "sha1": "554cdc93f5732893379f14780ae6fdefd5f27f5a"
+    },
+    "config/noelytramod.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/noelytramod.json",
+        "size": 104,
+        "sha1": "6fc5e03f24ee9468d0a924e0a9c4765bbac1ba2a"
+    },
+    "config/guardvillagers-startup.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/guardvillagers-startup.toml",
+        "size": 195,
+        "sha1": "7e913901b55f96773233150d324ce5dc786a9b4c"
+    },
+    "config/jei-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei-server.toml",
+        "size": 324,
+        "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8"
+    },
+    "config/create-stuff-additions.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create-stuff-additions.toml",
+        "size": 837,
+        "sha1": "cfb8c60e4b45cfdb2dcb26b5c208d2dbc0cda99f"
+    },
+    "config/better-advanced-tooltips-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/better-advanced-tooltips-client.toml",
+        "size": 142,
+        "sha1": "4fc30a37ee8030f4f3d22c7212e7432f5ad2cf37"
+    },
+    "config/clickadv.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/clickadv.json",
+        "size": 433,
+        "sha1": "24106d082b19249f8ae806e8ff98e437de585cc2"
+    },
+    "config/supplementaries-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/supplementaries-common.toml",
+        "size": 27752,
+        "sha1": "fdbe3bf73bd61661700abf3839cb7e770c05a8c0"
+    },
+    "config/recipeessentials.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/recipeessentials.json",
+        "size": 1104,
+        "sha1": "08b086074cbbfe2149c6ae80712929858e4572fa"
+    },
+    "config/dragonfight.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/dragonfight.json",
+        "size": 3020,
+        "sha1": "a98bed7e62301e65abc1e2efcec3083a655f2cd7"
+    },
+    "config/copycats-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/copycats-client.toml",
+        "size": 340,
+        "sha1": "85dca288044ae0940f94102ec82ee810ffb3bc59"
+    },
+    "config/moonlight-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/moonlight-common.toml",
+        "size": 960,
+        "sha1": "1f62002e06c865342690eea17511a19503da3d5d"
+    },
+    "config/molten_vents-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents-common.toml",
+        "size": 428,
+        "sha1": "548cf27a89ff37abd840fc566b1f8929d994a462"
+    },
+    "config/copycats-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/copycats-server.toml",
+        "size": 363,
+        "sha1": "1ece346a8a95d1d5fb7b9a7ae569a14588cb5766"
+    },
+    "config/sliceanddice-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sliceanddice-common.toml",
+        "size": 475,
+        "sha1": "bc0235112e1a1955cdf201946cddcfd68acc8e1b"
+    },
+    "config/ftbquests-client.snbt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ftbquests-client.snbt",
+        "size": 1143,
+        "sha1": "30c1716e8a9060a6591c1b1e80fc879f5e554c2d"
+    },
+    "config/sable-client-1.toml.bak": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sable-client-1.toml.bak",
+        "size": 658,
+        "sha1": "fac3b4938dfbe8204252528cb71412139805c24e"
+    },
+    "config/patchouli-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/patchouli-client.toml",
+        "size": 1089,
+        "sha1": "fca303723bcd692f1d64b76c7cf303afa46fc142"
+    },
+    "config/entity_texture_features.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/entity_texture_features.json",
+        "size": 1421,
+        "sha1": "0c6f24de039524572d381135891103ff4f3c4930"
+    },
+    "config/create_dragons_plus-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_dragons_plus-common.toml",
+        "size": 1454,
+        "sha1": "c863c881fe9c60a66cd59859223604e2f39de8e5"
+    },
+    "config/structurify.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/structurify.json",
+        "size": 356,
+        "sha1": "0282bd0c9ab984d5cf15f3763a93265afced1b7f"
+    },
+    "config/skeletonaifix-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/skeletonaifix-server.toml",
+        "size": 628,
+        "sha1": "cfb7ed19a5628412143aff26b4410db4819a930e"
+    },
+    "config/summoningrituals-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/summoningrituals-client.toml",
+        "size": 1022,
+        "sha1": "bd6bbec61e13346dec8c5a03f392e2e4a46ebaba"
+    },
+    "config/copycats-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/copycats-common.toml",
+        "size": 2165,
+        "sha1": "ff51da0faadaec726600993bd5ade2fef8e26dc5"
+    },
+    "config/createenchantablemachinery-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/createenchantablemachinery-common.toml",
+        "size": 604,
+        "sha1": "dae057e311e75af300aaa8c8f8e2294be035e3ab"
+    },
+    "config/resourceful-config-web.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/resourceful-config-web.json",
+        "size": 196,
+        "sha1": "1febb4088df3e3c775f4cab7b8ce4eb83184066e"
+    },
+    "config/fieldguide-client.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fieldguide-client.json",
+        "size": 1094,
+        "sha1": "dbbe26ab92b2faf17a424b1e189d816a3245a439"
+    },
+    "config/variantsandventures.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/variantsandventures.json",
+        "size": 1193,
+        "sha1": "69d90984b8f5945a558f1bc92d2a045b8c6762d1"
+    },
+    "config/regrowth-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/regrowth-common.toml",
+        "size": 3052,
+        "sha1": "cd6a16cd202903d8f22f1a4a31c1521f4eb997c1"
+    },
+    "config/irons_spellbooks-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/irons_spellbooks-server.toml",
+        "size": 5216,
+        "sha1": "e6febc7ea85ae1a959ea3d715e1a3250b4ad33ef"
+    },
+    "config/prettyrain-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/prettyrain-client.toml",
+        "size": 3087,
+        "sha1": "099d6b62613cf8114bba139ee29edf990b1c9729"
+    },
+    "config/comforts-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/comforts-server.toml",
+        "size": 1852,
+        "sha1": "28ab4c7c925eff47d552dc3ef7eb404ddfc6336f"
+    },
+    "config/structureessentials.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/structureessentials.json",
+        "size": 3787,
+        "sha1": "a3c715cede6bac9037e15f4f86e664949e68debd"
+    },
+    "config/farsight.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/farsight.json",
+        "size": 120,
+        "sha1": "39930d8507c37526df6ffe216dd85bf13386b57e"
+    },
+    "config/curios-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/curios-client.toml",
+        "size": 766,
+        "sha1": "7e66e02fbf04b28e7de60c4e675d2b5168be5ec6"
+    },
+    "config/neoforge-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/neoforge-client.toml",
+        "size": 578,
+        "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed"
+    },
+    "config/transition.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/transition.json",
+        "size": 62,
+        "sha1": "175ef27df07234a2e37dfbda9766f8c947122e12"
+    },
+    "config/ponder-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ponder-client.toml",
+        "size": 635,
+        "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8"
+    },
+    "config/farmersdelight-common-1.toml.bak": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/farmersdelight-common-1.toml.bak",
+        "size": 4713,
+        "sha1": "79ac5a884c5d7723811457ff4125c03c45ec0374"
+    },
+    "config/naturescompass-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/naturescompass-client.toml",
+        "size": 444,
+        "sha1": "18a1ac2e9777023e5c050d94f15d9b173671b547"
+    },
+    "config/appleskin-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/appleskin-client.toml",
+        "size": 1376,
+        "sha1": "8f167f14bbd81163f78c5e3459dcffdb50225117"
+    },
+    "config/enchdesc.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/enchdesc.json",
+        "size": 2059,
+        "sha1": "7afc913d0110cfd7e1379ab056448b76feb6900b"
+    },
+    "config/lootr-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/lootr-client.toml",
+        "size": 483,
+        "sha1": "32418b8a20482bbe8ae34fe31e479aa230caa3f4"
+    },
+    "config/galosphere-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/galosphere-common.toml",
+        "size": 351,
+        "sha1": "001a6cdf9a13d8b9d0c9643842ae4a656fdd2111"
+    },
+    "config/placebo.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/placebo.cfg",
+        "size": 495,
+        "sha1": "a3d7b80b1073ac5baaccaa5691c3fa8409fa4827"
+    },
+    "config/cupboard.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/cupboard.json",
+        "size": 1304,
+        "sha1": "48247803c5c4e83ce3d0ad62c479c35b2af4d965"
+    },
+    "config/someassemblyrequired-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/someassemblyrequired-client.toml",
+        "size": 104,
+        "sha1": "c44d37fe87aa1d1ee91985ea50f9ee0a26c36c5f"
+    },
+    "config/crepperoverhaul-client.jsonc": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/crepperoverhaul-client.jsonc",
+        "size": 389,
+        "sha1": "edb798c3662b3e2d709f8de46c8c8e21423a5710"
+    },
+    "config/etf_warnings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/etf_warnings.json",
+        "size": 28,
+        "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d"
+    },
+    "config/create_dragons_plus-simulated-extension-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_dragons_plus-simulated-extension-server.toml",
+        "size": 2448,
+        "sha1": "494cc8617cc2b99d618c403b70bb8763d77ae604"
+    },
+    "config/sodium-fingerprint.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sodium-fingerprint.json",
+        "size": 427,
+        "sha1": "b35b2d2a0fc87bde5e497bdf9f8bd2c54fe69daf"
+    },
+    "config/upgrade_aquatic-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/upgrade_aquatic-common.toml",
+        "size": 1628,
+        "sha1": "b99d31d3dd6c46cb6098546fb6bc43d3edeb5b57"
+    },
+    "config/notenoughanimations.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/notenoughanimations.json",
+        "size": 3357,
+        "sha1": "ea4648f60613f7140fc3d47f238c7fb3ff5b95ae"
+    },
+    "config/create_dragons_plus-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_dragons_plus-client.toml",
+        "size": 302,
+        "sha1": "7771aaf9b69d41d8839d4cce7fba0f07079e6e88"
+    },
+    "config/alloyed.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/alloyed.toml",
+        "size": 120,
+        "sha1": "2aeeb434b338dab7ed7cba05e3f93a73f70a0ba4"
+    },
+    "config/simple_snowy_fix_common.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/simple_snowy_fix_common.json",
+        "size": 43,
+        "sha1": "c1aa359fc647299b02e6e27b107b65141cb56d86"
+    },
+    "config/create_enchantment_industry-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_enchantment_industry-client.toml",
+        "size": 155,
+        "sha1": "31325d48446b183105eda69b9571273c16706571"
+    },
+    "config/create_dragons_plus-simulated-extension-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_dragons_plus-simulated-extension-common.toml",
+        "size": 528,
+        "sha1": "de3a5d5a8d7bd887568d54f7d2271034d260756c"
+    },
+    "config/immediatelyfast.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/immediatelyfast.json",
+        "size": 1114,
+        "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0"
+    },
+    "config/ribbits-options.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ribbits-options.json",
+        "size": 33,
+        "sha1": "5c46abd638cfc5358ba7a469f87fd64d7050f4be"
+    },
+    "config/neoforge-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/neoforge-common.toml",
+        "size": 772,
+        "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f"
+    },
+    "config/curios-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/curios-common.toml",
+        "size": 247,
+        "sha1": "1ab9049fbadeb8ab82256a6860132d714c36304f"
+    },
+    "config/createenchantablemachinery-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/createenchantablemachinery-client.toml",
+        "size": 21,
+        "sha1": "7634250adfbeb2104b5a5895487cde2464aea74e"
+    },
+    "config/create_dragons_plus-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_dragons_plus-server.toml",
+        "size": 353,
+        "sha1": "3d4c92f980a6033835bed1158d51d9240843c725"
+    },
+    "config/guardvillagers-client-1.toml.bak": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/guardvillagers-client-1.toml.bak",
+        "size": 341,
+        "sha1": "35490a3530de1523c5f936c58cc9ec9a798a2639"
+    },
+    "config/simulated-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/simulated-client.toml",
+        "size": 646,
+        "sha1": "89620dbca2e15a8052ac9f57eafb5420ee2f9d47"
+    },
+    "config/guardvillagers-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/guardvillagers-client.toml",
+        "size": 340,
+        "sha1": "a74efdc8645fd589da6fe1b28ba94e4fad43da0a"
+    },
+    "config/autumnity-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/autumnity-common.toml",
+        "size": 165,
+        "sha1": "a2020d5e96074b022989449f3678638e269741e7"
+    },
+    "config/aiimprovements-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/aiimprovements-common.toml",
+        "size": 6207,
+        "sha1": "0dd6c67ffafc371a1ee22959c693b9e35f0794d3"
+    },
+    "config/spawn-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/spawn-client.toml",
+        "size": 331,
+        "sha1": "9bf760ecaab5c3661efdbc8543e4119f4d5babcd"
+    },
+    "config/sodium-options.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sodium-options.json",
+        "size": 685,
+        "sha1": "2f221c55c9278f683b4afe220649abf79f130728"
+    },
+    "config/litematica.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica.json",
+        "size": 10275,
+        "sha1": "da129f1ceaa724086a34fce4a077228c2271296a"
+    },
+    "config/curios-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/curios-server.toml",
+        "size": 483,
+        "sha1": "8ccde45d5edd3767324231935fe07ac2318a0eb5"
+    },
+    "config/immersiveoverlays.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/immersiveoverlays.json",
+        "size": 3498,
+        "sha1": "a9c3c73347c2d7df8c0a87a31858f55103a45f78"
+    },
+    "config/jeed-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jeed-client.toml",
+        "size": 697,
+        "sha1": "5393eb64e747700beab26780223f0c9703367e46"
+    },
+    "config/jeresources-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jeresources-common.toml",
+        "size": 264,
+        "sha1": "4f163b317a4ab60c01a72188eb4edb22bbe9d62c"
+    },
+    "config/fml.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fml.toml",
+        "size": 1552,
+        "sha1": "30f79eb46f3b9558b4f1a66555d139eb99be7300"
+    },
+    "config/create_integrated_farming-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create_integrated_farming-server.toml",
+        "size": 2239,
+        "sha1": "7760280673a7b9bac5c2bbbb56575a0ab8480c23"
+    },
+    "config/trender.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/trender.json",
+        "size": 47,
+        "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    "config/ferritecore-mixin.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ferritecore-mixin.toml",
+        "size": 1603,
+        "sha1": "117f758af35aac859c535d5d2da96c5747a87aea"
+    },
+    "config/sophisticatedbackpacks-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sophisticatedbackpacks-server.toml",
+        "size": 21729,
+        "sha1": "7433f89527db6ed6e457e5fb50ad36d4e0e0cf97"
+    },
+    "config/connectivity.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/connectivity.json",
+        "size": 1763,
+        "sha1": "01642aa5d1cfa2b78dffe74e044154fcbb8f2c3e"
+    },
+    "config/create-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create-common.toml",
+        "size": 153,
+        "sha1": "eeb60a2bebe041d74118246f0353028f23c82242"
+    },
+    "config/someassemblyrequired-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/someassemblyrequired-server.toml",
+        "size": 833,
+        "sha1": "3f016acda129d24b7f1977f78737559a86ce137e"
+    },
+    "config/alshanex_familiars-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/alshanex_familiars-server.toml",
+        "size": 145,
+        "sha1": "ce7d35dd976e6206ed0be3833e2ba887e6b42ae0"
+    },
+    "config/naturescompass-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/naturescompass-common.toml",
+        "size": 2227,
+        "sha1": "42db63bed3bbc7f493f04476516f3ff10df1acdb"
+    },
+    "config/solcarrot-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/solcarrot-server.toml",
+        "size": 1128,
+        "sha1": "7df86271c761ccbd8d92e02698befb84e76e9ef3"
+    },
+    "config/terrablender.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/terrablender.toml",
+        "size": 988,
+        "sha1": "194a663d21fe1df84f7230013c470329088fa710"
+    },
+    "config/entity_model_features.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/entity_model_features.json",
+        "size": 1207,
+        "sha1": "99c62970fbba2f747e648d9f7004a4426e9b422e"
+    },
+    "config/betterfpsdist.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/betterfpsdist.json",
+        "size": 697,
+        "sha1": "57ca0fa9c82b059a563cbe2cc413e1305d99377b"
+    },
+    "config/collective.json5": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/collective.json5",
+        "size": 999,
+        "sha1": "5995e2ae7a4e79e4c0d89dd76629e5aa97948209"
+    },
+    "config/guardvillagers-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/guardvillagers-common.toml",
+        "size": 6130,
+        "sha1": "b5953853be5a7291ba99aab5e6588335ad221d8d"
+    },
+    "config/neoforge-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/neoforge-server.toml",
+        "size": 1177,
+        "sha1": "536538f1f29efb49318318113530bd4fd74c235b"
+    },
+    "config/MouseTweaks.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/MouseTweaks.cfg",
+        "size": 135,
+        "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    "config/sable-common.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sable-common.toml",
+        "size": 1843,
+        "sha1": "a8288aeb2b431d2c918fc315cbcf7c121ac4baed"
+    },
+    "config/journeymap-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/journeymap-server.toml",
+        "size": 550,
+        "sha1": "f5f7eb44a304882b631b813927707948a3588728"
+    },
+    "config/sophisticatedcore-client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sophisticatedcore-client.toml",
+        "size": 478,
+        "sha1": "27700782a7cd2e3f4a681fcee62fbe28057bca12"
+    },
+    "config/create-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/create-server.toml",
+        "size": 16890,
+        "sha1": "7e9b96b35e2f62ca7d25b583ad16f1ec9f037b36"
+    },
+    "config/irons_jewelry-server.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/irons_jewelry-server.toml",
+        "size": 356,
+        "sha1": "612abf02dfbfd4893eaac306adb148a139bc4400"
+    },
+    "config/sound_physics_remastered/soundphysics.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sound_physics_remastered/soundphysics.properties",
+        "size": 5104,
+        "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8"
+    },
+    "config/sound_physics_remastered/sound_rates.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sound_physics_remastered/sound_rates.properties",
+        "size": 111727,
+        "sha1": "d9b2a04bd891136dd370b157009ac271c31febb3"
+    },
+    "config/sound_physics_remastered/occlusion.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sound_physics_remastered/occlusion.properties",
+        "size": 4831,
+        "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350"
+    },
+    "config/sound_physics_remastered/reflectivity.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sound_physics_remastered/reflectivity.properties",
+        "size": 4713,
+        "sha1": "95feb43eb67757038518212b08739cb39bb9763e"
+    },
+    "config/artifacts/client.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/artifacts/client.toml",
+        "size": 819,
+        "sha1": "08a387d34de03a91f87c55e1e9af14b6935a9dc2"
+    },
+    "config/artifacts/general.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/artifacts/general.toml",
+        "size": 2325,
+        "sha1": "afe917354227426d73cc312e90a368d961f4d935"
+    },
+    "config/artifacts/items.toml": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/artifacts/items.toml",
+        "size": 20051,
+        "sha1": "4ac1372d84785fbccc8d8073f3641ffd00a38749"
+    },
+    "config/molten_vents/custom_blocks.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/custom_blocks.json",
+        "size": 73,
+        "sha1": "71b10600e7924c531d68688ff4f618b18695ada8"
+    },
+    "config/molten_vents/convertible/scoria.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/convertible/scoria.json",
+        "size": 29,
+        "sha1": "b73e67f599473b34a9741ad211e2940a07af7315"
+    },
+    "config/molten_vents/convertible/crimsite.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/convertible/crimsite.json",
+        "size": 29,
+        "sha1": "b73e67f599473b34a9741ad211e2940a07af7315"
+    },
+    "config/molten_vents/convertible/asurine.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/convertible/asurine.json",
+        "size": 29,
+        "sha1": "b73e67f599473b34a9741ad211e2940a07af7315"
+    },
+    "config/molten_vents/convertible/veridium.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/convertible/veridium.json",
+        "size": 29,
+        "sha1": "b73e67f599473b34a9741ad211e2940a07af7315"
+    },
+    "config/molten_vents/convertible/scorchia.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/convertible/scorchia.json",
+        "size": 29,
+        "sha1": "b73e67f599473b34a9741ad211e2940a07af7315"
+    },
+    "config/molten_vents/convertible/ochrum.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/convertible/ochrum.json",
+        "size": 29,
+        "sha1": "b73e67f599473b34a9741ad211e2940a07af7315"
+    },
+    "config/molten_vents/conductive/scoria.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/conductive/scoria.json",
+        "size": 101,
+        "sha1": "5afd69dbaf4ba0f3721a3f6bba87177c46e6aa03"
+    },
+    "config/molten_vents/conductive/crimsite.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/conductive/crimsite.json",
+        "size": 107,
+        "sha1": "63f26c0807235b1d70fb445618a65812b6a567ef"
+    },
+    "config/molten_vents/conductive/asurine.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/conductive/asurine.json",
+        "size": 104,
+        "sha1": "0e1139e319f1c47f40891ea4b5885f04b1e1c647"
+    },
+    "config/molten_vents/conductive/veridium.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/conductive/veridium.json",
+        "size": 107,
+        "sha1": "2842da2acf670c7bba158ce839c0c2b38c9e257e"
+    },
+    "config/molten_vents/conductive/scorchia.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/conductive/scorchia.json",
+        "size": 107,
+        "sha1": "a33cfac1c18068d6f0c214fbaf586b8fa4677a16"
+    },
+    "config/molten_vents/conductive/ochrum.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/conductive/ochrum.json",
+        "size": 101,
+        "sha1": "fc2c273fc45d2e6b0b26e3e091ea3b959cb270ba"
+    },
+    "config/jei/ingredient-list-type-sort-order.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/ingredient-list-type-sort-order.ini",
+        "size": 153,
+        "sha1": "6083a8e10bd2df978dba66eeed0cf6237aeea777"
+    },
+    "config/jei/jei-client.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/jei-client.ini",
+        "size": 10746,
+        "sha1": "479e55f7a35c760f91e2cc192c518e46c786a3e9"
+    },
+    "config/jei/ingredient-list-mod-sort-order.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/ingredient-list-mod-sort-order.ini",
+        "size": 1140,
+        "sha1": "b28a2bc5b26e888fb55eeae62b70f4f24376d697"
+    },
+    "config/jei/recipe-category-sort-order.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/recipe-category-sort-order.ini",
+        "size": 1719,
+        "sha1": "8d88227acd9730f2688e41457c4e917e12e9c6ba"
+    },
+    "config/jei/jei-debug.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/jei-debug.ini",
+        "size": 1326,
+        "sha1": "a977921de06d610005ba331750fcca1a14f75661"
+    },
+    "config/jei/jei-mod-id-format.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/jei-mod-id-format.ini",
+        "size": 489,
+        "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb"
+    },
+    "config/jei/blacklist.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/blacklist.json",
+        "size": 19,
+        "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39"
+    },
+    "config/jei/jei-colors.ini": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/jei-colors.ini",
+        "size": 1362,
+        "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313"
+    },
+    "config/jei/world/local/New_World__5/lookupHistory.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/world/local/New_World__5/lookupHistory.json",
+        "size": 391,
+        "sha1": "918737b37b927f5e49645d2ff2fff6e2b4488a87"
+    },
+    "config/jei/world/local/New_World__4/lookupHistory.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jei/world/local/New_World__4/lookupHistory.json",
+        "size": 3918,
+        "sha1": "26e9e6ad7008f9019c0792bdf96ed137b3fa06a9"
+    },
+    "config/worldedit/worldedit.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/worldedit.properties",
+        "size": 2547,
+        "sha1": "f2e4575fe19e8efa51dca14d9b07c7d17de5826d"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/.unpack_finished": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/.unpack_finished",
+        "size": 0,
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/strings.json",
+        "size": 34876,
+        "sha1": "436a00f5fdc42ab1a37f85391edf7195d48e8cad"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json",
+        "size": 30808,
+        "sha1": "2d906c69f31610b823d1bfd9b183706c4b53df5a"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ca/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json",
+        "size": 554,
+        "sha1": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json",
+        "size": 37375,
+        "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mt/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json",
+        "size": 1759,
+        "sha1": "235d227d4aeafb56c808c5257509d38c8c40e2c7"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/he/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/he/strings.json",
+        "size": 1460,
+        "sha1": "98bf778ea8e28e7271e77e170da69813ab532ac7"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/yi/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/vi/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json",
+        "size": 5975,
+        "sha1": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/so/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/so/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ka/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ko/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json",
+        "size": 32888,
+        "sha1": "695f13aff28997e5bde6ac80958d4b0ded45af5e"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ar/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json",
+        "size": 4566,
+        "sha1": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kn/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fil/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ba/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json",
+        "size": 37375,
+        "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/me/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/me/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ro/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json",
+        "size": 1737,
+        "sha1": "dbf641475bc55db3a776a6ca0088cdf835bc0e35"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bs/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gd/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cv/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mi/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lv/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json",
+        "size": 34951,
+        "sha1": "ee2f88d02b4817a39fc9095a3258215e6b281899"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tr/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json",
+        "size": 30750,
+        "sha1": "184f23e1e58edab8cb0d6ab6d2db950e1ef953e6"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json",
+        "size": 36482,
+        "sha1": "631d4916bfcd9878eacec8f7c68f1a9c926bbd7b"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/brb/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json",
+        "size": 33977,
+        "sha1": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ido/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/az/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/az/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json",
+        "size": 37375,
+        "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/enp/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/eo/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json",
+        "size": 1007,
+        "sha1": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fo/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/uk/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json",
+        "size": 44755,
+        "sha1": "143663bc5219d1cc2e1f1353658abc67985dba1a"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/swg/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json",
+        "size": 35314,
+        "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mn/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json",
+        "size": 2954,
+        "sha1": "5a1347a5588e481dd86ab92dc3ad84f316ff602a"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/th/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/th/strings.json",
+        "size": 8214,
+        "sha1": "179d4660d37941c7c38bdefee343159692d5f977"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hu/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json",
+        "size": 11082,
+        "sha1": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json",
+        "size": 1120,
+        "sha1": "f2a641e8fac0e925847b5588a02b6367cb460b21"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ru/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json",
+        "size": 45491,
+        "sha1": "ddac1ef123dcb4304f2fa10dade354b1d93dcc01"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/oc/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sk/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json",
+        "size": 10085,
+        "sha1": "3460136113848963844612776902d6fa4e6343c8"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/li/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/li/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/no/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/no/strings.json",
+        "size": 30808,
+        "sha1": "2d906c69f31610b823d1bfd9b183706c4b53df5a"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/da/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/da/strings.json",
+        "size": 33355,
+        "sha1": "429a3825a64ea29e8f9dc343af26c46e93951480"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/is/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/is/strings.json",
+        "size": 279,
+        "sha1": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json",
+        "size": 37151,
+        "sha1": "9adfeda71c19a19422e15d44fa205d7ea7ad8550"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lt/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json",
+        "size": 35314,
+        "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/be/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/be/strings.json",
+        "size": 4057,
+        "sha1": "c60574caff3a7a6dd8846a49bf80fc25c41f394c"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/eu/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json",
+        "size": 8642,
+        "sha1": "9fcb595d0c010353f6443cf3da7da04467ca6ee1"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/it/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/it/strings.json",
+        "size": 34664,
+        "sha1": "de2aae20652fc8bb13371ff548397f90652fa44a"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lo/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/szl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json",
+        "size": 35297,
+        "sha1": "96152d1ec798b904a136a91dd3fc7ad75381f762"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json",
+        "size": 37375,
+        "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kw/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mk/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/vec/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bg/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json",
+        "size": 4177,
+        "sha1": "91f2ca818a926a9324c3a7b4746e595f1a127121"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/oj/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kk/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json",
+        "size": 3419,
+        "sha1": "c3eb555e70a93a7e832a7c7e4bcf534c96cc4cb6"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json",
+        "size": 17686,
+        "sha1": "ea11327f71f3917145cdec06d4b1acfb33ebf4e4"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json",
+        "size": 28327,
+        "sha1": "53f208f3b22ea139f5be00f0dafb7354e039e3e2"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/an/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/an/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json",
+        "size": 712,
+        "sha1": "d76eba76d98123e6d72a0240eab564145a273764"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kab/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bn/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json",
+        "size": 33977,
+        "sha1": "a8bcdc99b8f6495d7334069e6f2e92fafc0d69dd"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json",
+        "size": 1992,
+        "sha1": "324bb32bb400cfa4815f577c188eba10692a87e0"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ig/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json",
+        "size": 35297,
+        "sha1": "96152d1ec798b904a136a91dd3fc7ad75381f762"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ms/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json",
+        "size": 3636,
+        "sha1": "944850a39e093c59a610ede202341a7c2e699ec7"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/el/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/el/strings.json",
+        "size": 399,
+        "sha1": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/et/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/et/strings.json",
+        "size": 5563,
+        "sha1": "564747457b4d5540e07571c8df4416cf871246df"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/de/strings.json",
+        "size": 35314,
+        "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cs/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json",
+        "size": 34146,
+        "sha1": "a475c0587a921c3ac9a00e62e0488ea6cea7e876"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/uz/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/af/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gv/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json",
+        "size": 35314,
+        "sha1": "c973d06dcb161fa9f36ed7cd1d659c40fd8e35c3"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sah/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hi/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/haw/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sq/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json",
+        "size": 6753,
+        "sha1": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lb/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json",
+        "size": 288,
+        "sha1": "5184eb63dcc1b5280d91902c7285d1a827643960"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ast/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fi/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json",
+        "size": 1550,
+        "sha1": "a66a02e0ab974728bb02470ceef4fa5a3ba91721"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/id/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/id/strings.json",
+        "size": 32634,
+        "sha1": "e5c91a0afa464ef7838af21887a236d6c614d73b"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/csb/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lol/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json",
+        "size": 22242,
+        "sha1": "31e00de07c38a0b3582c0b1bc40e464fdd3357db"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hr/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/enws/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json",
+        "size": 32469,
+        "sha1": "0c12e68d945bbc8c87aa3cc54cb4c4c5b324a99d"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json",
+        "size": 33967,
+        "sha1": "d2e863cc39b3f6b4e9bf2a929a5e519e21551e25"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json",
+        "size": 37375,
+        "sha1": "0deed0fa1021ced81fed248a8bdb250e286e8c22"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/yo/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fa/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cy/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nds/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/se/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/se/strings.json",
+        "size": 826,
+        "sha1": "0e89ce1223b6b90c69c809a56441d3a9480eeccb"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/got/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/got/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json",
+        "size": 37006,
+        "sha1": "0b45ee82ef95fae538656c8ea972eb4347f60daf"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sl/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json",
+        "size": 1536,
+        "sha1": "aa9c516576f2baad19d2d6bc1418479c1840f673"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json",
+        "size": 32615,
+        "sha1": "c4d6ebe6ed9dd694b7eda9be68683faa02e8c322"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/moh/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ja/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json",
+        "size": 31222,
+        "sha1": "3767e1aaf923e3bc529eaf8a5ae4ee7e16a3c0bb"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json",
+        "size": 35104,
+        "sha1": "1c2f7d815714b620f5af05bb20d5870b4ea3f7f4"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fr/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json",
+        "size": 36433,
+        "sha1": "2e44e69ac3b3cb0d5b5b4a30891024a751deee6c"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json",
+        "size": 37278,
+        "sha1": "933021f931ebfe68b67151c5e45a8bd8082209d8"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json",
+        "size": 5382,
+        "sha1": "088167f7b1d4fec597fe4bab1ce83da896f4115e"
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ta/strings.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json",
+        "size": 3,
+        "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5"
+    },
+    "config/worldedit/sessions/9404a01b-e87c-450f-aeee-63cbb8ab4042.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/worldedit/sessions/9404a01b-e87c-450f-aeee-63cbb8ab4042.json",
+        "size": 139,
+        "sha1": "edd9066bc9077042a4b1d07002b031747a97f6a2"
+    },
+    "config/konkrete/locals/de_de.local": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/konkrete/locals/de_de.local",
+        "size": 369,
+        "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+    },
+    "config/konkrete/locals/pt_br.local": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/konkrete/locals/pt_br.local",
+        "size": 322,
+        "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
+    },
+    "config/konkrete/locals/en_us.local": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/konkrete/locals/en_us.local",
+        "size": 426,
+        "sha1": "42badc338e767559db38a67bd3e8020a92000e56"
+    },
+    "config/konkrete/locals/pl_pl.local": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/konkrete/locals/pl_pl.local",
+        "size": 313,
+        "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+    },
+    "config/starterkit/kits/Default.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/kits/Default.txt",
+        "size": 476,
+        "sha1": "e85745d69d48a5036575415f2789fc359edfa270"
+    },
+    "config/starterkit/kits/inactive/Witch.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/kits/inactive/Witch.txt",
+        "size": 1115,
+        "sha1": "5dc7cf208fbc3909acd98f7e70e4efe7cf77f557"
+    },
+    "config/starterkit/kits/inactive/Lumberjack.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/kits/inactive/Lumberjack.txt",
+        "size": 655,
+        "sha1": "b3a3576ac17c764f0ff7b114dca892ac188bef71"
+    },
+    "config/starterkit/kits/inactive/Archer.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/kits/inactive/Archer.txt",
+        "size": 683,
+        "sha1": "899848892d0e0f0804443550174b1c440d6bbdc8"
+    },
+    "config/starterkit/descriptions/Witch.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/descriptions/Witch.txt",
+        "size": 52,
+        "sha1": "77670cdf9e83923d908e2b5699237e8e5013500d"
+    },
+    "config/starterkit/descriptions/Lumberjack.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/descriptions/Lumberjack.txt",
+        "size": 52,
+        "sha1": "cab211893ab639a1ea498efeb62d3e8c2aaf23a7"
+    },
+    "config/starterkit/descriptions/Default.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/descriptions/Default.txt",
+        "size": 125,
+        "sha1": "51f212508de1b146a587964cb983f30f12496bc3"
+    },
+    "config/starterkit/descriptions/Archer.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/starterkit/descriptions/Archer.txt",
+        "size": 57,
+        "sha1": "1f0d217132723ad76cdbcbe27a0181ccbf7b88ef"
+    },
+    "config/ok_zoomer/config.json5": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/ok_zoomer/config.json5",
+        "size": 7330,
+        "sha1": "efdf249c46b381707f171d56eb922fb1870fc2df"
+    },
+    "config/jade/plugins.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jade/plugins.json",
+        "size": 2380,
+        "sha1": "53f2d4dcfb6d5384dc10df90b6003fb1e3125355"
+    },
+    "config/jade/sort-order.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jade/sort-order.json",
+        "size": 2442,
+        "sha1": "1e37893b9410c25186730a480226d32019227080"
+    },
+    "config/jade/jade.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jade/jade.json",
+        "size": 1089,
+        "sha1": "8ea73ab5be986b34ee05bf2dcef295f59dcde376"
+    },
+    "config/jade/hide-blocks.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jade/hide-blocks.json",
+        "size": 149,
+        "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9"
+    },
+    "config/jade/hide-entities.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/jade/hide-entities.json",
+        "size": 243,
+        "sha1": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7"
+    },
+    "config/irons_spellbooks_spell_config/global_config.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/irons_spellbooks_spell_config/global_config.json",
+        "size": 257,
+        "sha1": "3fd1649e33039ce955191888a01c0742aa31a0f9"
+    },
+    "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+        "size": 683,
+        "sha1": "0fab2a7889883800b4b69f6ea4f77ed463fd4e05"
+    },
+    "config/apotheosis/apothic_enchanting.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/apotheosis/apothic_enchanting.cfg",
+        "size": 718,
+        "sha1": "511b08ab432a831951c654e08c2fb4746196d858"
+    },
+    "config/apotheosis/enchantments.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/apotheosis/enchantments.cfg",
+        "size": 65205,
+        "sha1": "f331fb6cd60835f11cc5cb5b89b73c6829e85564"
+    },
+    "config/apotheosis/apotheosis.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/apotheosis/apotheosis.cfg",
+        "size": 4271,
+        "sha1": "e60c57ba2fee982291ac2499c8b67fc12c4be8bc"
+    },
+    "config/apotheosis/apothic_attributes.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/apotheosis/apothic_attributes.cfg",
+        "size": 5285,
+        "sha1": "a3f6f93f2e18025b9273b8bcb7d901f92c1bed4e"
+    },
+    "config/apotheosis/name_generation.cfg": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/apotheosis/name_generation.cfg",
+        "size": 47202,
+        "sha1": "c78561add6e7c5e7363eff1fa4c9db915055a46f"
+    },
+    "config/chunky/config.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/chunky/config.json",
+        "size": 146,
+        "sha1": "a8157f2e1e649b891aaccb8ec83d38c84429c82a"
+    },
+    "config/chunky/tasks/minecraft/overworld.properties": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/chunky/tasks/minecraft/overworld.properties",
+        "size": 136,
+        "sha1": "8ae0de40c569def717f21633ffa4e50f8d77b984"
+    },
+    "config/litematica/litematica_truc pour defaultconfig.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/litematica_truc%20pour%20defaultconfig.json",
+        "size": 95,
+        "sha1": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    "config/litematica/litematica_New World.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/litematica_New%20World.json",
+        "size": 95,
+        "sha1": "040143e11c6eef0f77f06961d936f6033ccbc9bb"
+    },
+    "config/litematica/litematica_truc pour defaultconfig_dim_minecraft_overworld.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/litematica_truc%20pour%20defaultconfig_dim_minecraft_overworld.json",
+        "size": 754,
+        "sha1": "e081331b61ca7017930cb968120a145baad0a238"
+    },
+    "config/litematica/litematica_New World_dim_createteleporters_pocket_dimension.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/litematica_New%20World_dim_createteleporters_pocket_dimension.json",
+        "size": 754,
+        "sha1": "e081331b61ca7017930cb968120a145baad0a238"
+    },
+    "config/litematica/litematica_New World_dim_minecraft_overworld.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/litematica_New%20World_dim_minecraft_overworld.json",
+        "size": 929,
+        "sha1": "b56b49cba7b51da06edfb41d8fe0e71a194641f0"
+    },
+    "config/litematica/litematica_New World_dim_irons_spellbooks_pocket_dimension.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/litematica_New%20World_dim_irons_spellbooks_pocket_dimension.json",
+        "size": 754,
+        "sha1": "e081331b61ca7017930cb968120a145baad0a238"
+    },
+    "config/litematica/area_selections_per_world/New World/area_selections/ballon1 haut.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/area_selections_per_world/New%20World/area_selections/ballon1%20haut.json",
+        "size": 244,
+        "sha1": "0176373435932ba89983c02e4652cf34abb1399d"
+    },
+    "config/combat_roll/hud_config.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/combat_roll/hud_config.json",
+        "size": 106,
+        "sha1": "0d84275fc7c3a3512daa4e0a50cecc3245d06363"
+    },
+    "config/combat_roll/server.json5": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/combat_roll/server.json5",
+        "size": 1280,
+        "sha1": "7300ac568a9fbf7cc9c15729d1698815583bcda5"
+    },
+    "config/combat_roll/client.json5": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/combat_roll/client.json5",
+        "size": 251,
+        "sha1": "857f3c5a1fe60fe7ed5b12c87900a93869d589c1"
+    },
+    "config/fancymenu/custom_gui_screens.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/custom_gui_screens.txt",
+        "size": 51,
+        "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    "config/fancymenu/user_variables.db": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/user_variables.db",
+        "size": 23,
+        "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    "config/fancymenu/legacy_checklist.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/legacy_checklist.txt",
+        "size": 42,
+        "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    "config/fancymenu/customizablemenus.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/customizablemenus.txt",
+        "size": 26,
+        "sha1": "17448fdc6b8e32382c01b752a2b06d063e9aba96"
+    },
+    "config/fancymenu/options.txt": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/options.txt",
+        "size": 2129,
+        "sha1": "8c3c9ba621741fa065dadc9dbbd73b5a4a8c1a68"
+    },
+    "config/fancymenu/ui_themes/dark.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/ui_themes/dark.json",
+        "size": 6218,
+        "sha1": "22cefe5b52927d21f68b7e1537f52fba7ec6cca1"
+    },
+    "config/fancymenu/ui_themes/light.json": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/ui_themes/light.json",
+        "size": 6220,
+        "sha1": "800a6df3553074fe5474a9dc43d0ce0fdeb8f131"
+    },
+    "mods/Nedologin-1.21.1-1.0.9-all.jar": {
+        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Nedologin-1.21.1-1.0.9-all.jar",
+        "size": 3768617,
+        "sha1": "ef3fb34368f6261db43b9930899677f2c8b2ad74"
+    }
+}

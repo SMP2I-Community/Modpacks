@@ -1,0 +1,19 @@
+{
+  "name": "ballon1 haut",
+  "current": "ballon1 haut",
+  "boxes": [
+    {
+      "pos1": [
+        668,
+        132,
+        9385
+      ],
+      "pos2": [
+        660,
+        115,
+        9377
+      ],
+      "name": "ballon1 haut"
+    }
+  ]
+}
