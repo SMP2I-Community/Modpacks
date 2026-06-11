@@ -32,12 +32,7 @@ jobs:
       - name: Detect changed zips
         run: |
           git diff --name-only --diff-filter=AM HEAD^ HEAD -- '*.zip' > /tmp/added_modified.txt || true
-          grep -vE '/' /tmp/added_modified.txt > /tmp/tmp.txt || true
-          mv /tmp/tmp.txt /tmp/added_modified.txt
-
           git diff --name-only --diff-filter=D HEAD^ HEAD -- '*.zip' > /tmp/deleted.txt || true
-          grep -vE '/' /tmp/deleted.txt > /tmp/tmp.txt || true
-          mv /tmp/tmp.txt /tmp/deleted.txt
 
           if [ ! -s /tmp/added_modified.txt ] && [ ! -s /tmp/deleted.txt ]; then
             ls *.zip 2>/dev/null > /tmp/added_modified.txt || true
@@ -90,7 +85,7 @@ jobs:
         run: |
           while IFS= read -r f; do
             [ -z "$f" ] && continue
-            id=$(python3 -c "import re,sys; n=sys.argv[1].rsplit('.',1)[0]; n=n.strip().lower(); n=re.sub(r'[^\w\-]','-',n); n=re.sub(r'-+','-',n); print(n.strip('-'))" "$f")
+            id=$(python3 -c "import re,sys; from pathlib import Path; n=Path(sys.argv[1]).stem.strip().lower(); n=re.sub(r'[^\w\-]','-',n); n=re.sub(r'-+','-',n); print(n.strip('-'))" "$f")
             rm -rf "$id"
             echo "Removed data folder: $id"
           done < /tmp/deleted.txt
