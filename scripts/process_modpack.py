@@ -8,6 +8,7 @@ import hashlib
 import requests
 from pathlib import Path
 from urllib.parse import quote
+import re
 
 
 CURSEFORGE_API = "https://api.curseforge.com/v1"
@@ -28,6 +29,13 @@ def sha1_of_file(path):
 def build_raw_url(base_url: str, rel_path: str) -> str:
     encoded_segments = [quote(part) for part in rel_path.split("/")]
     return f"{base_url}/{'/'.join(encoded_segments)}"
+
+
+def slugify(name: str) -> str:
+    name = name.strip().lower()
+    name = re.sub(r'[^\w\-]', '-', name)
+    name = re.sub(r'-+', '-', name)
+    return name.strip('-')
 
 
 def get_mod_file_info(project_id, file_id):
@@ -87,7 +95,7 @@ def process(input_path, output_root):
     with open(manifest_path) as f:
         manifest = json.load(f)
 
-    modpack_id = input_path.stem
+    modpack_id = slugify(input_path.stem)
     modpack_name = manifest.get("name", modpack_id)
     modpack_version = manifest.get("version", "1.0.0")
     mc_version = manifest.get("minecraft", {}).get("version", "unknown")
