@@ -31,11 +31,11 @@ jobs:
       - name: Detect changed manifests
         id: changes
         run: |
-          git diff --name-only HEAD^ HEAD -- manifests/ > changed_files.txt || true
-          if [ ! -s changed_files.txt ]; then
-            ls manifests/*.json manifests/*.zip 2>/dev/null > changed_files.txt || true
+          git diff --name-only HEAD^ HEAD -- manifests/ > /tmp/changed_files.txt || true
+          if [ ! -s /tmp/changed_files.txt ]; then
+            ls manifests/*.json manifests/*.zip 2>/dev/null > /tmp/changed_files.txt || true
           fi
-          cat changed_files.txt
+          cat /tmp/changed_files.txt
 
       - name: Process each modpack
         env:
@@ -46,7 +46,7 @@ jobs:
             [ -z "$f" ] && continue
             echo "Processing $f"
             python scripts/process_modpack.py "$f" /tmp/output
-          done < changed_files.txt
+          done < /tmp/changed_files.txt
 
       - name: Checkout/prepare data branch
         run: |
