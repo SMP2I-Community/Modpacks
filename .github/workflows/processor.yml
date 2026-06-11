@@ -1,18 +1,25 @@
+name: Process Modpack
+
 on:
   push:
+    branches: [main]
     paths:
-      - '*.zip'
+      - 'manifests/*.json'
+      - 'manifests/**/*.zip'
+
+permissions:
+  contents: write
 
 jobs:
   process:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
-      
+          ref: main
+          fetch-depth: 0
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -21,26 +28,50 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Detect changed zips
-        id: detect
+      - name: Detect changed manifests
+        id: changes
         run: |
-          CHANGED=$(git diff --name-only HEAD~1 HEAD | grep -E '^[^/]+\.zip$')
-          echo "zips=$CHANGED" >> $GITHUB_OUTPUT
+          git diff --name-only HEAD^ HEAD -- manifests/ > changed_files.txt || true
+          if [ ! -s changed_files.txt ]; then
+            ls manifests/*.json manifests/*.zip 2>/dev/null > changed_files.txt || true
+          fi
+          cat changed_files.txt
 
-      - name: Process zips
+      - name: Process each modpack
         env:
-          CURSEFORGE_KEY: ${{ secrets.CURSEFORGE_KEY }}
-        if: steps.detect.outputs.zips != ''
+          CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
         run: |
-          for zip in ${{ steps.detect.outputs.zips }}; do
-            python scripts/process_modpack.py $CURSEFORGE_KEY $zip
+          mkdir -p /tmp/output
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            echo "Processing $f"
+            python scripts/process_modpack.py "$f" /tmp/output
+          done < changed_files.txt
+
+      - name: Checkout/prepare data branch
+        run: |
+          git fetch origin data || true
+          if git show-ref --verify --quiet refs/remotes/origin/data; then
+            git checkout data
+          else
+            git checkout --orphan data
+            git rm -rf . || true
+          fi
+
+      - name: Copy generated files into data branch
+        run: |
+          for dir in /tmp/output/*/; do
+            id=$(basename "$dir")
+            rm -rf "$id"
+            mkdir -p "$id"
+            cp -r "$dir"/* "$id"/
           done
-      
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./modpacks
-          destination_dir: modpacks
-          exclude_assets: '**.zip'
-          keep_files: true
+          cp /tmp/output/index.json index.json
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes" || git commit -m "Update modpack data ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push origin data

@@ -1,86 +1,169 @@
+#!/usr/bin/env python3
+import json
 import os
 import sys
-import json
+import shutil
 import zipfile
+import hashlib
 import requests
-import tempfile
+from pathlib import Path
 
-ENTRY = "https://api.curseforge.com"
-FILE_INFO = "{entry}/v1/mods/{project_id}/files/{file_id}"
+CURSEFORGE_API = "https://api.curseforge.com/v1"
+API_KEY = os.environ.get("CURSEFORGE_API_KEY")
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "USER/Modpack")  # auto en CI
 
-
-class DownloadInfo:
-    def __init__(self, url, file_name):
-        self.url = url
-        self.file_name = file_name
+HEADERS = {"x-api-key": API_KEY, "Accept": "application/json"}
 
 
-def generate_download_url(file_id, file_name):
-    first_half = str(file_id)[:4]
-    last_half = str(file_id)[4:].replace("0", "")
-
-    return f"https://mediafilez.forgecdn.net/files/{first_half}/{last_half}/{file_name}"
-
-
-def get_download_url(project_id, file_id, headers):
-    r = requests.get(FILE_INFO.format(entry=ENTRY, project_id=project_id, file_id=file_id), headers = headers)
-    mdata = r.json()["data"]
-
-    download_url = mdata["downloadUrl"]
-    file_name = mdata["fileName"]
-    if download_url is None:
-        download_url = generate_download_url(file_id, file_name)
-
-    return DownloadInfo(download_url, file_name)
+def sha1_of_file(path):
+    h = hashlib.sha1()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(8192), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 
-def download_mod(file, mods_dir, headers):
-        project_id = file["projectID"]
-        file_id = file["fileID"]
+def get_mod_file_info(project_id, file_id):
+    url = f"{CURSEFORGE_API}/mods/{project_id}/files/{file_id}"
+    r = requests.get(url, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    data = r.json()["data"]
 
-        download_info: DownloadInfo = get_download_url(project_id, file_id, headers)
+    download_url = data.get("downloadUrl")
+    if not download_url:
+        file_id_str = str(file_id)
+        download_url = (
+            f"https://edge.forgecdn.net/files/{file_id_str[:4]}/{file_id_str[4:]}/"
+            f"{data['fileName']}"
+        )
 
-        to = os.path.join(mods_dir, download_info.file_name)
-        download_file(download_info.url, to)
-
-
-def download_file(url, to):
-    os.makedirs(os.path.dirname(to), exist_ok=True)
-    with requests.get(url, stream=True) as r:
-        r.raise_for_status()
-        with open(to, "wb") as f:
-            for chunk in r.iter_content(chunk_size=8192):
-                f.write(chunk)
-    print(to, "downloaded")
-
-
-def process_zip(key, zip_path):
-    headers = {
-    'Accept': 'application/json',
-    'x-api-key': key
+    return {
+        "fileName": data["fileName"],
+        "downloadUrl": download_url,
+        "fileLength": data["fileLength"],
+        "displayName": data.get("displayName", data["fileName"]),
     }
 
-    pack_name = os.path.splitext(os.path.basename(zip_path))[0]
-    mods_dir = os.path.join("modpacks", pack_name, "mods")
 
-    with tempfile.TemporaryDirectory() as tmp_dir:
-        with zipfile.ZipFile(zip_path, "r") as z:
-            z.extractall(tmp_dir)
-        
-        manifest_path = os.path.join(tmp_dir, "manifest.json")
-        with open(manifest_path, "r") as f:
-            data = json.load(f)
+def download_file(url, dest_path):
+    dest_path.parent.mkdir(parents=True, exist_ok=True)
+    with requests.get(url, stream=True, timeout=120, headers={"User-Agent": "ModpackLauncher/1.0"}) as r:
+        r.raise_for_status()
+        with open(dest_path, "wb") as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
 
-        for file in data["files"]:
-            download_mod(file, mods_dir, headers)
+
+def extract_zip_manifest(zip_path, work_dir):
+    with zipfile.ZipFile(zip_path, "r") as z:
+        z.extractall(work_dir)
+    manifest_path = work_dir / "manifest.json"
+    overrides_dir = work_dir / "overrides"
+    return manifest_path, overrides_dir
+
+
+def process(input_path, output_root):
+    input_path = Path(input_path)
+    output_root = Path(output_root)
+    work_dir = Path("/tmp/work") / input_path.stem
+    if work_dir.exists():
+        shutil.rmtree(work_dir)
+    work_dir.mkdir(parents=True)
+
+    overrides_dir = None
+
+    if input_path.suffix == ".zip":
+        manifest_path, overrides_dir = extract_zip_manifest(input_path, work_dir)
+    else:
+        manifest_path = input_path
+
+    with open(manifest_path) as f:
+        manifest = json.load(f)
+
+    modpack_id = input_path.stem
+    modpack_name = manifest.get("name", modpack_id)
+    modpack_version = manifest.get("version", "1.0.0")
+    mc_version = manifest.get("minecraft", {}).get("version", "unknown")
+    modloaders = manifest.get("minecraft", {}).get("modLoaders", [])
+    primary_loader = next((m["id"] for m in modloaders if m.get("primary")), "unknown")
+
+    files_index = {}
+    files_dir = output_root / modpack_id / "files"
+    files_dir.mkdir(parents=True, exist_ok=True)
+
+    base_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/data/{modpack_id}/files"
+
+    # 1. Mods CurseForge
+    for mod in manifest.get("files", []):
+        project_id = mod["projectID"]
+        file_id = mod["fileID"]
+        # required = mod.get("required", True)
+        # if not required:
+        #     continue
+
+        try:
+            info = get_mod_file_info(project_id, file_id)
+        except requests.HTTPError as e:
+            print(f"  WARNING: skip projectID={project_id} fileID={file_id}: {e}")
+            continue
+
+        rel_path = f"mods/{info['fileName']}"
+        dest = files_dir / rel_path
+        print(f"  Downloading {info['displayName']} -> {rel_path}")
+        download_file(info["downloadUrl"], dest)
+
+        files_index[rel_path] = {
+            "url": f"{base_raw_url}/{rel_path}",
+            "size": dest.stat().st_size,
+            "sha1": sha1_of_file(dest),
+        }
+
+    # 2. Overrides (configs, resourcepacks, scripts, etc.)
+    if overrides_dir and overrides_dir.exists():
+        for root, _, filenames in os.walk(overrides_dir):
+            for fn in filenames:
+                src = Path(root) / fn
+                rel_path = str(src.relative_to(overrides_dir))
+                dest = files_dir / rel_path
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(src, dest)
+
+                files_index[rel_path] = {
+                    "url": f"{base_raw_url}/{rel_path}",
+                    "size": dest.stat().st_size,
+                    "sha1": sha1_of_file(dest),
+                }
+
+    # 3. Write files.json
+    with open(output_root / modpack_id / "files.json", "w") as f:
+        json.dump(files_index, f, indent=4)
+
+    # 4. Update index.json
+    index_path = output_root / "index.json"
+    if index_path.exists():
+        with open(index_path) as f:
+            index = json.load(f)
+    else:
+        index = {"modpacks": []}
+
+    entry = {
+        "id": modpack_id,
+        "name": modpack_name,
+        "version": modpack_version,
+        "minecraft_version": mc_version,
+        "modloader": primary_loader,
+        "files_url": f"https://raw.githubusercontent.com/{GITHUB_REPO}/data/{modpack_id}/files.json",
+    }
+
+    index["modpacks"] = [m for m in index["modpacks"] if m["id"] != modpack_id]
+    index["modpacks"].append(entry)
+
+    with open(index_path, "w") as f:
+        json.dump(index, f, indent=4)
+
+    print(f"Done: {len(files_index)} files for {modpack_id}")
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: process_modpack.py <curseforge_key> <zip_path> ")
-        sys.exit(1)
-
-    key = sys.argv[1]
-    zip_path = sys.argv[2]
-
-    process_zip(key, zip_path)
+    assert API_KEY != "", "Api key can't be null"
+    process(sys.argv[1], sys.argv[2])
