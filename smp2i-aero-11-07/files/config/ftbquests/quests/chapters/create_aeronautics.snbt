@@ -1,0 +1,321 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_aeronautics"
+	group: "072234E9FB3F2FA2"
+	hide_quest_until_deps_complete: true
+	id: "515F722A0FEA8F72"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["6D7C320A11EC58B8"]
+			id: "676624346E745806"
+			tasks: [{
+				id: "6F4BE72057DDA074"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["676624346E745806"]
+			id: "3108ED7A88FFDAB9"
+			tasks: [{
+				id: "5F4330C7D14E6DF8"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			id: "0742B4EE74E82803"
+			tasks: [{
+				id: "54C576F1A7637E2E"
+				item: { count: 1, id: "simulated:honey_glue" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "742E925C6763CE43"
+			rewards: [
+				{
+					count: 2
+					id: "7D4F257F260C8D0E"
+					item: {
+						count: 1
+						id: "simulated:rope_coupling"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "232A6F1E43D71EA9"
+					item: {
+						count: 1
+						id: "simulated:rope_connector"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "538454674E87C299"
+					item: { count: 1, id: "simulated:rope_winch" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0AB8E9F8599AAF0E"
+					item: { count: 1, id: "simulated:rope_coupling" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "471D79DD45830C6C"
+					item: { count: 1, id: "simulated:rope_connector" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			id: "05DACDFE747EBF48"
+			rewards: [{
+				count: 2
+				id: "59D9DCA32392200F"
+				item: {
+					count: 1
+					id: "simulated:spring"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "506BD97103994559"
+				item: { count: 1, id: "simulated:spring" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "4909FDB7F79EE37D"
+			rewards: [{
+				count: 2
+				id: "49F5C84905AD73B9"
+				item: {
+					count: 1
+					id: "simulated:torsion_spring"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "355E7B03318170AE"
+				item: { count: 1, id: "simulated:torsion_spring" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			id: "02E62B1AE8CD80B3"
+			rewards: [{
+				count: 16
+				id: "6E80A44AEDF03184"
+				item: {
+					count: 1
+					id: "simulated:white_symmetric_sail"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "45EB09723A859840"
+				item: { count: 1, id: "simulated:white_symmetric_sail" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			id: "0ED92F7306B64483"
+			rewards: [
+				{
+					count: 2
+					id: "65285A35800C2CD5"
+					item: {
+						count: 1
+						id: "aeronautics:andesite_propeller"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "48FE4D85A7841497"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "6300B82F58AFB932"
+				item: { count: 1, id: "aeronautics:andesite_propeller" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			id: "4DE23F858BB6ED61"
+			tasks: [{
+				id: "0EC5A16BE5FD5897"
+				item: { count: 1, id: "aeronautics:propeller_bearing" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "5F91BCBBE59C508E"
+			rewards: [{
+				id: "07B7AE6119010A61"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				advancement: "aeronautics:unidentified_floating_object"
+				criterion: ""
+				id: "47D64D6795724A29"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			id: "0C3B1E163E8D700B"
+			tasks: [{
+				id: "37B4CD9B275EB2A8"
+				item: { count: 1, id: "aeronautics:gyroscopic_propeller_bearing" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			id: "4DB89FF422647E4C"
+			rewards: [
+				{
+					id: "3F98F9D9F0A88A5E"
+					item: {
+						count: 1
+						id: "simulated:white_nameplate"
+					}
+					type: "item"
+				}
+				{
+					id: "49974C424435E789"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0C4EFBBBA2132DC2"
+				item: { count: 1, id: "simulated:white_nameplate" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			id: "05A10EED5F2265F6"
+			rewards: [
+				{
+					id: "1D686E0B530089BD"
+					item: {
+						count: 1
+						id: "aeronautics:adjustable_burner"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "0D784386308C2B7D"
+					item: {
+						count: 1
+						id: "create:analog_lever"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "1AD68F2B981E48BB"
+				item: { count: 1, id: "aeronautics:adjustable_burner" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "0ED0BBEE679CF621"
+			rewards: [{
+				count: 4
+				id: "681501AB4621B8A8"
+				item: {
+					count: 1
+					id: "create:fluid_tank"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "06BD79AFB336015F"
+				item: { count: 1, id: "aeronautics:steam_vent" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "23486AD0B6C15EC8"
+			rewards: [
+				{
+					count: 2
+					id: "13DD22A97192EAE7"
+					item: {
+						count: 1
+						id: "simulated:iron_handle"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "178F01083040082A"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "1F61597A28FA2C33"
+				item: { count: 1, id: "simulated:iron_handle" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+	]
+}

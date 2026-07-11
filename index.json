@@ -7,6 +7,14 @@
             "minecraft_version": "1.21.1",
             "modloader": "neoforge-21.1.228",
             "files_url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files.json"
+        },
+        {
+            "id": "smp2i-aero-11-07",
+            "name": "SMP2I AERO",
+            "version": "",
+            "minecraft_version": "1.21.1",
+            "modloader": "neoforge-21.1.235",
+            "files_url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-aero-11-07/files.json"
         }
     ]
 }

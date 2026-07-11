@@ -1,0 +1,200 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "crafts_and_additions"
+	group: "072234E9FB3F2FA2"
+	id: "458DC97A4C6C98AE"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "187FBA91D706A649"
+			tasks: [{
+				id: "045110FCD7D05492"
+				item: { count: 1, id: "createaddition:portable_energy_interface" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "77E4C4BD2A299A42"
+			tasks: [{
+				count: 3L
+				id: "6BFB98988CB00253"
+				item: { count: 1, id: "createaddition:modular_accumulator" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "3A4458E497CEEE3D"
+			tasks: [{
+				id: "3F671ED4027B6561"
+				item: { count: 1, id: "createaddition:tesla_coil" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "41A63D966E9A2241"
+			tasks: [
+				{
+					count: 3L
+					id: "380B8685B3C66A8D"
+					item: { count: 1, id: "createaddition:connector" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5C2695292B0C91C5"
+					item: { count: 1, id: "createaddition:large_connector" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "47975FE1BF0516BA"
+			tasks: [
+				{
+					count: 3L
+					id: "3AF6B981ECBD3945"
+					item: { count: 1, id: "createaddition:copper_spool" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "09668249DC74D32D"
+					item: { count: 1, id: "createaddition:gold_spool" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "57B7A9280E1F9EF6"
+					item: { count: 1, id: "createaddition:electrum_spool" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			id: "723F3CCD410F2F9C"
+			tasks: [{
+				id: "06B65465DAE41F13"
+				item: { count: 1, id: "createaddition:rolling_mill" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "391319A7DC887BDE"
+			tasks: [{
+				id: "45D0FACF7D40E248"
+				item: { count: 1, id: "create_sa:brass_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "46563AEA7B67B13E"
+			tasks: [{
+				id: "31F7FEECA81D13D3"
+				item: { count: 1, id: "create_sa:brass_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "0D65EEFE55ACBEA4"
+			tasks: [
+				{
+					id: "5A45F5350FCA4B21"
+					item: { count: 1, id: "create_sa:brass_drone_item" }
+					type: "item"
+				}
+				{
+					id: "1AE1E45119B1614D"
+					item: { count: 1, id: "create_sa:drone_controller" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "104BDF0209C73E76"
+			tasks: [{
+				id: "3F27E4A1DB4D5450"
+				item: { count: 1, id: "create_sa:flamethrower" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "78923CC387BA923E"
+			tasks: [{
+				id: "4BD87526C19F40E4"
+				item: { count: 1, id: "create_sa:portable_drill" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			id: "79D2FD46FFD445CA"
+			tasks: [{
+				id: "0F8252C076018B12"
+				item: { count: 1, id: "create_sa:grapplin_whisk" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			id: "620025FA60876924"
+			tasks: [{
+				id: "16F3F13407CAFFA6"
+				item: { count: 1, id: "create_sa:block_picker" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["46563AEA7B67B13E"]
+			id: "23E09E8423E7C82A"
+			tasks: [{
+				id: "0DDBD8E7336D7419"
+				item: { count: 1, id: "create_sa:netherite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["391319A7DC887BDE"]
+			id: "1B6CEAE29DF31AEC"
+			tasks: [{
+				id: "5391F5904D1168ED"
+				item: { count: 1, id: "create_sa:netherite_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "advancements"
+	group: "503EC0E78130FE09"
+	id: "5A29A50A681E7BAE"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "315C2053B4A18B25"
+			tasks: [{
+				advancement: "beachparty:main/get_all_cocktails"
+				criterion: ""
+				id: "0B4915C2A594E839"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "06D25E8CFBC20297"
+			tasks: [{
+				advancement: "beachparty:main/get_all_artifacts"
+				criterion: ""
+				id: "571190419CE47741"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 2.5d
+		}
+		{
+			id: "4C947440CA5AAAC9"
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/get_all_skulls"
+				criterion: ""
+				id: "1D6AA24F8C1309C2"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			id: "54CEE08530EF541A"
+			tasks: [{
+				advancement: "create:steam_engine_maxed"
+				criterion: ""
+				id: "1703DFE082260651"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+	]
+}

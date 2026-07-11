@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"waystones:sandy_waystone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"b3_worldborder:expandercrystal_t5"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"b3_worldborder:expandercrystal_t4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"b3_worldborder:expandercrystal_t3"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"b3_worldborder:expandercrystal_t2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"b3_worldborder:expandercrystal_t1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:wrench"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stone_sword","components":{"apotheosis:affixes":{"apotheosis:melee/attribute/violent":0.12791836},"apotheosis:rarity":"apotheosis:common","apotheosis:affix_name":{"translate":"misc.apotheosis.affix_name.two","with":[{"translate":"affix.apotheosis:melee/attribute/violent"},"",""],"italic":false,"color":"#808080"},"apotheosis:from_chest":true}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_jewelry:ring","components":{"irons_jewelry:jewelry_data":{"pattern":"irons_jewelry:simple_band","parts":{"irons_jewelry:band_simple":"irons_jewelry:netherite"}},"minecraft:item_name":"{\"translate\":\"pattern.irons_jewelry.simple_band.item\",\"with\":[{\"translate\":\"material.irons_jewelry.netherite\"}]}"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:fire_charge"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
