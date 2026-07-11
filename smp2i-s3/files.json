@@ -1,94 +1,4 @@
 {
-    "mods/betterfpsdist-1.21-6.0.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/betterfpsdist-1.21-6.0.jar",
-        "size": 22742,
-        "sha1": "5377aae3a0f0eb65aa5dceca4985f53480a73db5"
-    },
-    "mods/createteleporters-remastered-2.0.2b-neoforge-1.21.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/createteleporters-remastered-2.0.2b-neoforge-1.21.1.jar",
-        "size": 1886362,
-        "sha1": "76fe16fb464351859113102477bf91f100984257"
-    },
-    "mods/recipeessentials-1.21-4.0.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/recipeessentials-1.21-4.0.jar",
-        "size": 43950,
-        "sha1": "a1ea98e7ea194807201cc8618ac9e74da65716e5"
-    },
-    "mods/create-enchantment-industry-2.3.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-enchantment-industry-2.3.1.jar",
-        "size": 684729,
-        "sha1": "e9a57b322459bda9905e4287d2582ad600909b11"
-    },
-    "mods/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar",
-        "size": 3666530,
-        "sha1": "8f3a5d415e8d5548ec1d15695af4a125bd3860dc"
-    },
-    "mods/AI-Improvements-1.21-0.5.3.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/AI-Improvements-1.21-0.5.3.jar",
-        "size": 28984,
-        "sha1": "b4a8e11384454bcc341043b251db7fb5afdfdf45"
-    },
-    "mods/cloth-config-15.0.140-neoforge.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/cloth-config-15.0.140-neoforge.jar",
-        "size": 1163890,
-        "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
-    },
-    "mods/dragonfight-1.21-4.7.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/dragonfight-1.21-4.7.jar",
-        "size": 35942,
-        "sha1": "9c4b7d0b3568c9cf27668264f0a4d62cd0e002f2"
-    },
-    "mods/jinxedlib-neoforge-1.21.1-1.0.4.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/jinxedlib-neoforge-1.21.1-1.0.4.jar",
-        "size": 69628,
-        "sha1": "4fcb38e30b7654cf94bdf7b4e1511ed860c31aae"
-    },
-    "mods/interiors-1.21.1-neoforge-0.6.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/interiors-1.21.1-neoforge-0.6.1.jar",
-        "size": 486912,
-        "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
-    },
-    "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar",
-        "size": 33030286,
-        "sha1": "fdf1ae69e8b6437e0196b3a35dd2325aa904aba9"
-    },
-    "mods/create_power_loader-2.0.3-mc1.21.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_power_loader-2.0.3-mc1.21.1.jar",
-        "size": 404692,
-        "sha1": "d7197ab489c30761dadfb7ef963b99bc8d505df1"
-    },
-    "mods/NoElytrasMod-NeoForge-1.21.1-1.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/NoElytrasMod-NeoForge-1.21.1-1.1.jar",
-        "size": 7063,
-        "sha1": "fb6a6c9031ef30bd240dde9b344b051005fce70e"
-    },
-    "mods/ferritecore-7.0.3-neoforge.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/ferritecore-7.0.3-neoforge.jar",
-        "size": 121559,
-        "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
-    },
-    "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
-        "size": 292088,
-        "sha1": "e739d69b2de31ca8c0cb4691ab08e823f153bc44"
-    },
-    "mods/Searchables-neoforge-1.21.1-1.0.2.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
-        "size": 77326,
-        "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
-    },
-    "mods/neo21.1_regrowth_CC-21.34.7.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/neo21.1_regrowth_CC-21.34.7.jar",
-        "size": 155905,
-        "sha1": "a91eaae31862f7dac784658116ef0730a87562c7"
-    },
-    "mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/create_rustic_structures-1.0.0-neoforge-1.21.1.jar",
-        "size": 710280,
-        "sha1": "1f0f0f1fc4202eaaa3470c76d6b18f776762d85f"
-    },
     "mods/Chunky-NeoForge-1.4.23.jar": {
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/mods/Chunky-NeoForge-1.4.23.jar",
         "size": 340572,
@@ -1381,8 +1291,8 @@
     },
     "config/alloyed.toml": {
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/alloyed.toml",
-        "size": 120,
-        "sha1": "2aeeb434b338dab7ed7cba05e3f93a73f70a0ba4"
+        "size": 138,
+        "sha1": "3645594d6a194aa62898a6f16afe7dfbd8ab1b30"
     },
     "config/simple_snowy_fix_common.json": {
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/simple_snowy_fix_common.json",
@@ -1623,21 +1533,6 @@
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/sound_physics_remastered/reflectivity.properties",
         "size": 4713,
         "sha1": "95feb43eb67757038518212b08739cb39bb9763e"
-    },
-    "config/artifacts/client.toml": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/artifacts/client.toml",
-        "size": 819,
-        "sha1": "08a387d34de03a91f87c55e1e9af14b6935a9dc2"
-    },
-    "config/artifacts/general.toml": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/artifacts/general.toml",
-        "size": 2325,
-        "sha1": "afe917354227426d73cc312e90a368d961f4d935"
-    },
-    "config/artifacts/items.toml": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/artifacts/items.toml",
-        "size": 20051,
-        "sha1": "4ac1372d84785fbccc8d8073f3641ffd00a38749"
     },
     "config/molten_vents/custom_blocks.json": {
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/molten_vents/custom_blocks.json",
@@ -2638,21 +2533,6 @@
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/litematica/area_selections_per_world/New%20World/area_selections/ballon1%20haut.json",
         "size": 244,
         "sha1": "0176373435932ba89983c02e4652cf34abb1399d"
-    },
-    "config/combat_roll/hud_config.json": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/combat_roll/hud_config.json",
-        "size": 106,
-        "sha1": "0d84275fc7c3a3512daa4e0a50cecc3245d06363"
-    },
-    "config/combat_roll/server.json5": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/combat_roll/server.json5",
-        "size": 1280,
-        "sha1": "7300ac568a9fbf7cc9c15729d1698815583bcda5"
-    },
-    "config/combat_roll/client.json5": {
-        "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/combat_roll/client.json5",
-        "size": 251,
-        "sha1": "857f3c5a1fe60fe7ed5b12c87900a93869d589c1"
     },
     "config/fancymenu/custom_gui_screens.txt": {
         "url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3/files/config/fancymenu/custom_gui_screens.txt",

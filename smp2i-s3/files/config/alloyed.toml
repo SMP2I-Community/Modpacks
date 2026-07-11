@@ -1,3 +1,4 @@
 # Enable a built-in datapack to integrate Forges into vanilla progression.
 # default: false
+# THIS IS A TEST
 integratedForges = false
