@@ -1,0 +1,141 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "creative_items"
+	group: "503EC0E78130FE09"
+	id: "4B2E7C17861E5554"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3B047412B3D13254"
+			tasks: [{
+				id: "17635FD0BF6A6EB6"
+				item: { count: 1, id: "create:creative_blaze_cake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "26391DDEB3C9F339"
+			tasks: [{
+				id: "58DED72483B93539"
+				item: { count: 1, id: "kubejs:creative_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "6DD36CF383BE67BE"
+			tasks: [{
+				id: "1C1CCEE1A02949D7"
+				item: { count: 1, id: "kubejs:creative_ingot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "7C8127FB6F83C1EA"
+			tasks: [{
+				id: "157D953E6F406136"
+				item: { count: 1, id: "create_sa:creative_filling_tank" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "726E8B21819D01A9"
+			tasks: [{
+				id: "4AFBB672C098325A"
+				item: { count: 1, id: "create_enchantment_industry:creative_bookshelf" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "3EFD084EE610B657"
+			tasks: [{
+				id: "305FAB9E6B30A4BA"
+				item: { count: 1, id: "create_radar:creative_radar_plate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "158C4F21257DCD0D"
+			tasks: [{
+				id: "6C5A029C7EC3D5E5"
+				item: { count: 1, id: "create:creative_motor" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "4C1A58AA931B77AD"
+			tasks: [{
+				id: "65452527ED406C68"
+				item: { count: 1, id: "simulated:creative_physics_staff" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			id: "0F710D11247B0751"
+			tasks: [{
+				id: "03602C1E4F777A80"
+				item: { count: 1, id: "createpropulsion:creative_thruster" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "58D3081BFBF2DFAA"
+			tasks: [{
+				id: "5B9E6A19C1AF71CD"
+				item: { count: 1, id: "createpropulsion:creative_vector_thruster" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "7A1B9D87669002A2"
+			tasks: [{
+				id: "1CA3F3EC67AFA40A"
+				item: { count: 1, id: "createbigcannons:creative_autocannon_ammo_container" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			id: "7F2BB994DE4EBFEC"
+			tasks: [{
+				id: "06996AA298A24007"
+				item: { count: 1, id: "createterminal:creative_remote_terminal" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			id: "0AFDAE94F70D9678"
+			tasks: [{
+				id: "39404A03643FBB17"
+				item: { count: 1, id: "create_submarine:creative_oxygenator" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+	]
+}

@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"apotheosis:gem_case"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:ender_gem_case"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apotheosis:gem","components":{"apotheosis:gem":"apotheosis:core/lunar","apotheosis:purity":"perfect"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
