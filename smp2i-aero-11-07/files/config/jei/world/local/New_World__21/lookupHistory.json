@@ -1,8 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"b3_worldborder:expandercrystal_t2"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"b3_worldborder:expandercrystal_t5"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"b3_worldborder:expandercrystal_t4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"b3_worldborder:expandercrystal_t3"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"b3_worldborder:expandercrystal_t1"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

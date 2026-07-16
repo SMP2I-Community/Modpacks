@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"create:crushing_wheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:andesite_alloy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"better_weaponry:netherite_rapier"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
