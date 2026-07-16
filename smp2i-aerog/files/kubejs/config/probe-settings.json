@@ -1,0 +1,8 @@
+{
+    "probejs.complete": true,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge"
+    ]
+}

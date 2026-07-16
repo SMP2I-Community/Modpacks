@@ -1,0 +1,1 @@
+Platform.mods.kubejs.name = 'SMP2I Saison 3'
