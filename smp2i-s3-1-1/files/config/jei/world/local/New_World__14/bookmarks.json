@@ -1,7 +1,0 @@
-[
-  {"version":2},
-  {"ingredient":{"id":"aeronautics:gyroscopic_propeller_bearing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"aeronautics:levitite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simulated:red_portable_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"aeronautics:propeller_bearing"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

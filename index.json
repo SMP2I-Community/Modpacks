@@ -1,14 +1,6 @@
 {
     "modpacks": [
         {
-            "id": "smp2i-s3-1-1",
-            "name": "SMP2I AERO",
-            "version": "",
-            "minecraft_version": "1.21.1",
-            "modloader": "neoforge-21.1.235",
-            "files_url": "https://raw.githubusercontent.com/SMP2I-Community/Modpacks/data/smp2i-s3-1-1/files.json"
-        },
-        {
             "id": "smp2i-aerog",
             "name": "SMP2I AERO",
             "version": "",
