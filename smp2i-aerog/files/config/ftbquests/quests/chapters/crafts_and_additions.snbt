@@ -1,0 +1,425 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "crafts_and_additions"
+	group: "072234E9FB3F2FA2"
+	id: "458DC97A4C6C98AE"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "187FBA91D706A649"
+			rewards: [{
+				count: 2
+				id: "121C8A0278CFFD36"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t1"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "045110FCD7D05492"
+				item: { count: 1, id: "createaddition:portable_energy_interface" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "77E4C4BD2A299A42"
+			rewards: [{
+				count: 2
+				id: "124F5EEABDD756C1"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t1"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "6BFB98988CB00253"
+				item: { count: 1, id: "createaddition:modular_accumulator" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "3A4458E497CEEE3D"
+			rewards: [{
+				count: 3
+				id: "1428902EDF9272FB"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t1"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F671ED4027B6561"
+				item: { count: 1, id: "createaddition:tesla_coil" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "41A63D966E9A2241"
+			rewards: [{
+				count: 3
+				id: "106637096FE19A9F"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t1"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "380B8685B3C66A8D"
+					item: { count: 1, id: "createaddition:connector" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5C2695292B0C91C5"
+					item: { count: 1, id: "createaddition:large_connector" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "47975FE1BF0516BA"
+			rewards: [{
+				count: 3
+				id: "07F26DE1CF3E1150"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t1"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 3L
+					id: "3AF6B981ECBD3945"
+					item: { count: 1, id: "createaddition:copper_spool" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "09668249DC74D32D"
+					item: { count: 1, id: "createaddition:gold_spool" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "57B7A9280E1F9EF6"
+					item: { count: 1, id: "createaddition:electrum_spool" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["40FD99EB9632D6D7"]
+			id: "723F3CCD410F2F9C"
+			rewards: [
+				{
+					count: 3
+					id: "2C6ECF3F60086AD0"
+					item: {
+						count: 1
+						id: "b3_worldborder:expandercrystal_t1"
+					}
+					type: "item"
+				}
+				{
+					id: "71DE577CE40DAA34"
+					item: {
+						count: 1
+						id: "minecraft:bamboo"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "06B65465DAE41F13"
+				item: { count: 1, id: "createaddition:rolling_mill" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["487AD65FCA4EE557"]
+			id: "391319A7DC887BDE"
+			rewards: [{
+				id: "6E075001A1FA8D1E"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t2"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "45D0FACF7D40E248"
+				item: { count: 1, id: "create_sa:brass_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["487AD65FCA4EE557"]
+			id: "46563AEA7B67B13E"
+			rewards: [{
+				id: "47E01831FF734EE7"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t2"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "31F7FEECA81D13D3"
+				item: { count: 1, id: "create_sa:brass_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26036BBC62001051"]
+			id: "0D65EEFE55ACBEA4"
+			rewards: [{
+				id: "1295A5DDC9893C85"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t2"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5A45F5350FCA4B21"
+					item: { count: 1, id: "create_sa:brass_drone_item" }
+					type: "item"
+				}
+				{
+					id: "1AE1E45119B1614D"
+					item: { count: 1, id: "create_sa:drone_controller" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["43602AE1F5DBEC4F"]
+			id: "104BDF0209C73E76"
+			rewards: [
+				{
+					id: "12BEF7CD6D00909D"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+				{
+					id: "458782B2515FD218"
+					item: {
+						count: 1
+						id: "b3_worldborder:expandercrystal_t2"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F27E4A1DB4D5450"
+				item: { count: 1, id: "create_sa:flamethrower" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["487AD65FCA4EE557"]
+			id: "78923CC387BA923E"
+			rewards: [{
+				id: "74548E64E8378FFD"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t2"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BD87526C19F40E4"
+				item: { count: 1, id: "create_sa:portable_drill" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43602AE1F5DBEC4F"]
+			id: "79D2FD46FFD445CA"
+			rewards: [{
+				id: "54CC6483F077E720"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t2"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F8252C076018B12"
+				item: { count: 1, id: "create_sa:grapplin_whisk" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2E1EED6115AD57F7"]
+			id: "620025FA60876924"
+			rewards: [{
+				id: "24FCED1ECE3F4238"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t2"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "16F3F13407CAFFA6"
+				item: { count: 1, id: "create_sa:block_picker" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["46563AEA7B67B13E"]
+			id: "23E09E8423E7C82A"
+			rewards: [{
+				id: "6F56956593CADEEB"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t3"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0DDBD8E7336D7419"
+				item: { count: 1, id: "create_sa:netherite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["391319A7DC887BDE"]
+			id: "1B6CEAE29DF31AEC"
+			rewards: [{
+				id: "7EC620B247853E8E"
+				item: {
+					count: 1
+					id: "b3_worldborder:expandercrystal_t3"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5391F5904D1168ED"
+				item: { count: 1, id: "create_sa:netherite_exoskeleton_chestplate" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["468324CA82F4FA25"]
+			id: "487AD65FCA4EE557"
+			rewards: [{
+				id: "06DB71C095EB63B8"
+				team_reward: true
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "1A7D7786B7D3C4A9"
+				item: { count: 1, id: "create_sa:steam_engine" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["721C62CB7342B12B"]
+			id: "2E1EED6115AD57F7"
+			rewards: [{
+				id: "1CD6B233BE86A320"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4DB17E864587709A"
+				item: { count: 1, id: "create_sa:hydraulic_engine" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["468324CA82F4FA25"]
+			id: "43602AE1F5DBEC4F"
+			rewards: [{
+				id: "2E16808B2EBDA0A1"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "178117F2819627CB"
+				item: { count: 1, id: "create_sa:heat_engine" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "0964B25256B018F2"
+			tasks: [{
+				id: "7E5A9E01C35429E3"
+				item: { count: 1, id: "createaddition:alternator" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["723F3CCD410F2F9C"]
+			id: "616FFC2250E9BC96"
+			tasks: [{
+				id: "1797FAFE8AEBB8A9"
+				item: { count: 1, id: "createaddition:electric_motor" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+	]
+}
