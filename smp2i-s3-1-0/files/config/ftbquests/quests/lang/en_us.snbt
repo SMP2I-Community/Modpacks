@@ -1,0 +1,78 @@
+{
+	chapter.1761BFA51BDCF128.title: "World border"
+	chapter.1AEE129128370C74.title: "Alex's Caves"
+	chapter.20D0454EAB99C0BB.title: "Molten Vents"
+	chapter.24BDFA655067EB47.title: "Create"
+	chapter.27D75A995B9108C5.title: "Enchantment Industry"
+	chapter.3EC105E21CB5374A.title: "Bosses'Rise"
+	chapter.4036DDBD62960A1B.title: "Apotheosis"
+	chapter.458DC97A4C6C98AE.title: "Additions"
+	chapter.4929C22881002E7E.title: "Sophisticated Backpacks"
+	chapter.4B2E7C17861E5554.title: "Creative Items"
+	chapter.515F722A0FEA8F72.title: "Aeronautics"
+	chapter.5E5692BEE3A3AFE1.title: "Enchanted"
+	chapter.748DC8213B1275F2.title: "Iron's Spells and Spellbooks"
+	chapter.7716F2E70980491E.title: "Cataclysm"
+	chapter_group.072234E9FB3F2FA2.title: "Create"
+	chapter_group.2AB6666F9D872FC1.title: "Exploration"
+	chapter_group.503EC0E78130FE09.title: "Other"
+	chapter_group.7CF1350067D98E62.title: "Magic"
+	quest.00325C5D1A1B7504.quest_subtitle: "Output can be selected via a filter. You can drag items from JEI to it."
+	quest.00A77C322FC5A1C9.quest_desc: [
+		"You may find these structures generating in the wild."
+		"The block in the center is called \"dormant\", to activate it, trigger an explosion, via Tnt for example. "
+		"Once active, any lava in contact with the block will be transformed into the variant of the Molten Vent you have."
+	]
+	quest.00A77C322FC5A1C9.title: "Molten Vents"
+	quest.0389956372DD6595.quest_desc: [
+		"Using chalks from Enchanted, make this pattern and throw an "
+		"Amethyst Shard, an Echo Shard and a Creative Ingot"
+		"{image:minecraft:item/amethyst_shard width:16 height:16 align:left}"
+		"{image:minecraft:item/echo_shard width:16 height:16 align:left}"
+		"{image:kubejs:item/creative_ingot width:16 height:16 align:left}"
+		"{image:kubejs:textures/quests/ritual_t5.png width:100 height:100 align:right}"
+		"Then click on the Golden Chalk"
+	]
+	quest.04B042C80FE22AA4.quest_desc: ["Look up ! Activate the boss fight by clicking the anchor."]
+	quest.08B18EE9CC620461.quest_desc: ["Use the eyes to find all the structures from L' Ender Cataclysm and defeat all the bosses."]
+	quest.0FDD54AAC4B79CF1.title: "Boiler"
+	quest.10B99C59BA490542.title: "Cogwheels"
+	quest.1130F9CF8ADEAB16.title: "The basics"
+	quest.170DAB1825CAA89A.title: "Automating travels"
+	quest.186057BF1141AC23.quest_desc: ["Summon Maledictus by clicking the &lCursed Tombstone&r."]
+	quest.1BA8284721189EFE.title: "Fluid manipulation"
+	quest.1FA984E372793566.quest_subtitle: "A simple but essential tool."
+	quest.2253DC270D34F3C3.quest_subtitle: "You can make submarines using Create Deep Seas"
+	quest.255D5703BD95F076.title: "Windmill"
+	quest.25C3EE20673019C2.quest_desc: ["After defeating the Monstrosity, search the structure for Ancient Debris."]
+	quest.26D83AFBF5F078ED.quest_desc: ["Each World Tier increases difficulty and loot."]
+	quest.26D83AFBF5F078ED.quest_subtitle: "You can access the World Tier Haven by pressing CTRL +T"
+	quest.28CA13E35D3237FE.title: "Huey, Dewey, and Louie"
+	quest.2C87D7AA474A3683.quest_desc: ["Found in the End. Find the Ender Guardian at the lowest level of the dungeon."]
+	quest.2DFF6E7E678996BC.quest_desc: ["Use &lBurning Ashes&r on the Altar of Fire at the center of the Arena to summon Ignis."]
+	quest.2FF12E6A48956711.quest_desc: ["To awaken the Ancient Remnant, brush suspicious sand in the pyramid to find the &lNecklace of the Desert&r."]
+	quest.36DC0C86DFED2B6B.title: "Depot and Basin"
+	quest.3ABBED7B64F3FD7E.title: "Packaging"
+	quest.3E2BF3C3FD4D1EE6.quest_subtitle: "Fluid bodies of more than 10k blocks are considered infinite. Source blocks are NOT needed."
+	quest.4316914B411E997D.quest_desc: ["Find Cave Tablets, decode them, transform them in Cave Maps and find the underground biomes scattered around the world."]
+	quest.4316914B411E997D.title: "Alex Caves"
+	quest.4909FDB7F79EE37D.quest_subtitle: "Do not forget to place the Mechanical Bearing to \"Only place when anchor destroyed\""
+	quest.4F5947781BF39164.quest_subtitle: "Any other SU generator works on contraptions too."
+	quest.4FFCD8ACF478A7E4.quest_subtitle: "Works directly on Blaze spawners too."
+	quest.57D6012ABE0AE95F.quest_subtitle: "Automate xp collection to upgrade your gear."
+	quest.57D6012ABE0AE95F.title: "Create Enchantment Industry"
+	quest.5DD4136A39338028.title: "Water Wheels"
+	quest.5FF6AFB41931B34A.title: "Gantry"
+	quest.62391E1D25D7625C.quest_desc: ["Wearing this, you will not take damage  from radiation."]
+	quest.6D7C320A11EC58B8.quest_subtitle: "Cobblestone generators can generate random stone block  (including andesite) if made directly on bedrock."
+	quest.742E925C6763CE43.title: "Ropes"
+	quest.76B5CD3C4E99F343.quest_desc: ["Craft an &lAbyssal Sacrifice&r to summon the Leviathan."]
+	quest.77D085DB0808E49D.title: "Cardboard Armor"
+	quest.78A3E42D81C24A01.quest_desc: ["Place the lights in a square and the magnetic quarry outside of it. Then place the smasher in the square."]
+	quest.78A3E42D81C24A01.title: "Quarry"
+	quest.7C3AA7155A5ACA9A.quest_desc: ["To summon the Harbinger, insert a Nether Star into its chest cavity."]
+	quest.7C48CA8FB89DE8AA.title: "The beginning"
+	task.012785398D752F41.title: "World Tiers"
+	task.07689B82DC42AB66.title: "Boats and Submarines"
+	task.0FC11C3E24FF7324.title: "Cataclysm Bosses"
+}

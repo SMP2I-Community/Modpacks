@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_blue"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_lime"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_magenta"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_orange"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:flying"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:popped_chorus_fruit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":{"minecraft:potion_contents":{"potion":"apothic_attributes:long_flying"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_yellow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_light_blue"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_red"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:wing_mesh_green"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apothic_enchanting:ender_lead"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createornithopterglider:elytra_piece"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
